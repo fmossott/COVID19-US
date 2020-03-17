@@ -82,7 +82,8 @@ Zhejiang,Mainland China,1/23/20 17:00,27,,
 ,Australia,1/23/20 17:00,,,
 ,Mexico,1/23/20 17:00,,,
 ,Brazil,1/23/20 17:00,,,
-,Colombia,1/23/20 17:00,,,Hubei,Mainland China,1/24/20 17:00,549,24,31
+,Colombia,1/23/20 17:00,,,
+Hubei,Mainland China,1/24/20 17:00,549,24,31
 Guangdong,Mainland China,1/24/20 17:00,53,,2
 Zhejiang,Mainland China,1/24/20 17:00,43,,1
 Beijing,Mainland China,1/24/20 17:00,36,,1
@@ -122,7 +123,8 @@ Chicago,US,1/24/20 17:00,1,,
 ,South Korea,1/24/20 17:00,2,,
 ,Singapore,1/24/20 17:00,3,,
 ,Vietnam,1/24/20 17:00,2,,
-,France,1/24/20 17:00,2,,Hubei,Mainland China,1/25/20 17:00,761,40,32
+,France,1/24/20 17:00,2,,
+Hubei,Mainland China,1/25/20 17:00,761,40,32
 Guangdong,Mainland China,1/25/20 17:00,78,,2
 Zhejiang,Mainland China,1/25/20 17:00,62,,1
 Chongqing,Mainland China,1/25/20 17:00,57,,
@@ -165,7 +167,8 @@ Illinois,US,1/25/20 17:00,1,,
 ,France,1/25/20 17:00,3,,
 ,Australia,1/25/20 17:00,4,,
 ,Nepal,1/25/20 17:00,1,,
-,Malaysia,1/25/20 17:00,3,,Hubei,Mainland China,1/26/20 16:00,1058,52,42
+,Malaysia,1/25/20 17:00,3,,
+Hubei,Mainland China,1/26/20 16:00,1058,52,42
 Guangdong,Mainland China,1/26/20 16:00,111,,2
 Zhejiang,Mainland China,1/26/20 16:00,104,,1
 Henan,Mainland China,1/26/20 16:00,83,1,
@@ -211,7 +214,8 @@ Arizona,US,1/26/20 16:00,1,,
 ,Australia,1/26/20 16:00,4,,
 ,Nepal,1/26/20 16:00,1,,
 ,Malaysia,1/26/20 16:00,4,,
-Ontario,Canada,1/26/20 16:00,1,,Hubei,Mainland China,1/27/20 23:59,1423,76,45
+Ontario,Canada,1/26/20 16:00,1,,
+Hubei,Mainland China,1/27/20 23:59,1423,76,45
 Guangdong,Mainland China,1/27/20 23:59,151,,4
 Zhejiang,Mainland China,1/27/20 23:59,128,,1
 Henan,Mainland China,1/27/20 23:59,128,1,
@@ -261,7 +265,8 @@ Ontario,Canada,1/27/20 23:59,1,,
 ,Sri Lanka,1/27/20 23:59,1,,
 ,Ivory Coast,1/27/20 23:59,1,,
 New South Wales,Australia,1/27/20 23:59,4,,
-Victoria,Australia,1/27/20 23:59,1,,Hubei,Mainland China,1/28/20 23:00,3554,125,80
+Victoria,Australia,1/27/20 23:59,1,,
+Hubei,Mainland China,1/28/20 23:00,3554,125,80
 Guangdong,Mainland China,1/28/20 23:00,207,,4
 Zhejiang,Mainland China,1/28/20 23:00,173,,3
 Henan,Mainland China,1/28/20 23:00,168,1,
@@ -312,7 +317,8 @@ British Columbia,Canada,1/28/20 23:00,1,,
 ,Sri Lanka,1/28/20 23:00,1,,
 New South Wales,Australia,1/28/20 23:00,4,,
 Victoria,Australia,1/28/20 23:00,1,,
-Bavaria,Germany,1/28/20 23:00,4,,Hubei,Mainland China,1/29/20 19:30,3554,125,88
+Bavaria,Germany,1/28/20 23:00,4,,
+Hubei,Mainland China,1/29/20 19:30,3554,125,88
 Zhejiang,Mainland China,1/29/20 19:30,296,,3
 Guangdong,Mainland China,1/29/20 19:30,277,,5
 Hunan,Mainland China,1/29/20 19:30,221,,
@@ -365,7 +371,8 @@ New South Wales,Australia,1/29/20 19:30,4,,
 Victoria,Australia,1/29/20 19:30,1,,
 Bavaria,Germany,1/29/20 19:30,4,,
 ,Finland,1/29/20 19:30,1,,
-,United Arab Emirates,1/29/20 19:30,4,,Hubei,Mainland China,1/30/20 16:00,4903,162,90
+,United Arab Emirates,1/29/20 19:30,4,,
+Hubei,Mainland China,1/30/20 16:00,4903,162,90
 Zhejiang,Mainland China,1/30/20 16:00,428,,4
 Guangdong,Mainland China,1/30/20 16:00,354,,10
 Henan,Mainland China,1/30/20 16:00,278,2,2
@@ -422,7 +429,8 @@ Bavaria,Germany,1/30/20 16:00,4,,
 ,Finland,1/30/20 16:00,1,,
 ,United Arab Emirates,1/30/20 16:00,4,,
 ,Philippines,1/30/20 16:00,1,,
-,India,1/30/20 16:00,1,,Hubei,Mainland China,1/31/2020 23:59,5806,204,141
+,India,1/30/20 16:00,1,,
+Hubei,Mainland China,1/31/2020 23:59,5806,204,141
 Zhejiang,Mainland China,1/31/2020 23:59,538,,14
 Guangdong,Mainland China,1/31/2020 23:59,436,,11
 Henan,Mainland China,1/31/2020 23:59,352,2,3
@@ -1705,7 +1713,8 @@ Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 "Orange, CA",US,2020-02-01T19:53:03,1,0,0
 "San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
 "Seattle, WA",US,2020-02-09T07:03:04,1,0,1
-"Tempe, AZ",US,2020-02-01T19:43:03,1,0,0Hubei,Mainland China,2020-02-18T23:13:11,61682,1921,9128
+"Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
+Hubei,Mainland China,2020-02-18T23:13:11,61682,1921,9128
 Guangdong,Mainland China,2020-02-18T13:43:02,1328,4,565
 Henan,Mainland China,2020-02-18T14:23:02,1257,19,522
 Zhejiang,Mainland China,2020-02-18T12:23:02,1172,0,535
@@ -1779,7 +1788,8 @@ Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
 "Orange, CA",US,2020-02-01T19:53:03,1,0,0
 "San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
 "Seattle, WA",US,2020-02-09T07:03:04,1,0,1
-"Tempe, AZ",US,2020-02-01T19:43:03,1,0,0Hubei,Mainland China,2020-02-19T23:23:02,62031,2029,10337
+"Tempe, AZ",US,2020-02-01T19:43:03,1,0,0
+Hubei,Mainland China,2020-02-19T23:23:02,62031,2029,10337
 Guangdong,Mainland China,2020-02-19T10:23:02,1331,5,606
 Henan,Mainland China,2020-02-19T12:13:08,1262,19,573
 Zhejiang,Mainland China,2020-02-19T11:33:02,1174,0,604
@@ -5371,7 +5381,8 @@ Wyoming,US,2020-03-11T20:00:00,1,0,0,42.755966,-107.30249
 ,Monaco,2020-03-11T20:00:00,2,0,0,43.7333,7.4167
 ,Liechtenstein,2020-03-11T20:00:00,1,0,0,47.14,9.55
 ,Guyana,2020-03-11T20:00:00,1,1,0,5,-58.75
-,Taiwan*,2020-03-11T20:00:00,50,1,20,23.7,121Hubei,China,2020-03-14T10:13:09,67790,3075,52960,30.9756,112.2707
+,Taiwan*,2020-03-11T20:00:00,50,1,20,23.7,121
+Hubei,China,2020-03-14T10:13:09,67790,3075,52960,30.9756,112.2707
 ,Italy,2020-03-14T20:13:16,21157,1441,1966,41.8719,12.5674
 ,Iran,2020-03-14T11:33:06,12729,611,2959,32.4279,53.6880
 ,"Korea, South",2020-03-14T01:33:02,8086,72,510,35.9078,127.7669
@@ -5877,7 +5888,8 @@ Gibraltar,United Kingdom,2020-03-14T16:33:03,1,0,1,36.1408,-5.3536
 ,Uzbekistan,2020-03-15T18:20:19,1,0,0,41.3775,64.5853
 From Diamond Princess,Australia,2020-03-14T02:33:04,0,0,0,35.4437,139.638
 West Virginia,US,2020-03-10T02:33:04,0,0,0,38.4912,-80.9545
-,occupied Palestinian territory,2020-03-11T20:53:02,0,0,0,31.9522,35.2332Hubei,China,2020-03-16T14:38:45,67798,3099,55142,30.9756,112.2707
+,occupied Palestinian territory,2020-03-11T20:53:02,0,0,0,31.9522,35.2332
+Hubei,China,2020-03-16T14:38:45,67798,3099,55142,30.9756,112.2707
 ,Italy,2020-03-16T17:33:03,27980,2158,2749,41.8719,12.5674
 ,Iran,2020-03-16T14:38:45,14991,853,4590,32.4279,53.6880
 ,Spain,2020-03-16T20:13:11,9942,342,530,40.4637,-3.7492

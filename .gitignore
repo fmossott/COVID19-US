@@ -1,0 +1,7 @@
+# OS or Editor folders
+._*
+.cache
+.DS_Store
+Thumbs.db
+
+*.wrk
