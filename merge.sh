@@ -1,25 +1,48 @@
-#!/bin/bash
+#!/bin/bash -e
 
-here=`dirname $0`
-src=$here/../COVID-19/csse_covid_19_data/csse_covid_19_daily_reports
+function fail {
+  echo $1
+  exit 1
+}
 
-tgt=$here/data/cases.csv
-wrk=$tgt.wrk
-hdrs=$src/03-16-2020.csv
+function banner {
+  echo
+  echo --------------------------------------------------------
+  echo $1
+  echo --------------------------------------------------------
+  echo
+}
 
-tgtdir=`dirname $tgt`
+cd `dirname $0`
+cwd=$PWD 
 
-if [ ! -d tgtdir ]; then
-  mkdir -p $tgtdir
+#Pull source
+banner "Pulling source repo"
+cd "$cwd/../COVID-19"
+git pull
+
+#Pull this repo
+banner "Pulling this repos"
+cd "$cwd"
+git checkout master
+git pull
+
+# Process data
+banner "Process data"
+pwd
+ls -l pyscript/mergeTimeSeries.py
+python3 pyscript/mergeTimeSeries.py -s ../COVID-19/csse_covid_19_data/csse_covid_19_time_series/ -o data/ts_raw.csv
+
+if [[ `git status --porcelain` ]]; then
+  echo Changes to commit
+  mergetime=`date -Iseconds -u` 
+  banner "Committing to 'Merge $mergetime'"
+  git commit -a -m "Merge $mergetime"
+
+  git push
+  if [ -f refresh.sh ]; then
+    ./refresh.sh
+  fi
+else
+  echo No changes to commit
 fi
-
-head -n1 $hdrs > $wrk
-
-for f in $src/*.csv; do
-  echo adding $f to $wrk
-  tail -n+2 $f >> $wrk
-  echo >> $wrk
-done
-
-sed '/^$/d' $wrk > $tgt
-
