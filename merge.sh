@@ -29,10 +29,10 @@ git pull
 
 # Process data
 banner "Process data"
-pwd
-ls -l pyscript/mergeTimeSeries.py
 python3 pyscript/mergeTimeSeries.py -s ../COVID-19/csse_covid_19_data/csse_covid_19_time_series/ -o data/ts_raw.csv
 
+# Check changes, commit and push
+banner "Checking for changes"
 if [[ `git status --porcelain` ]]; then
   echo Changes to commit
   mergetime=`date -Iseconds -u` 
