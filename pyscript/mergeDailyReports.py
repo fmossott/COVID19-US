@@ -2,32 +2,60 @@
 # To add a new markdown cell, type '# %% [markdown]'
 # %%
 import pandas as pd
-import glob, sys
+import glob
+import re
+import datetime
+
 
 # %%
-home=sys.path[0]
-print("home is ",home)
+parser = argparse.ArgumentParser(description='Merge daily reports files')
+parser.add_argument('--src','-s', metavar='srcdir', required=True, help='src directory')
+parser.add_argument('--out','-o', metavar="outfile", required=True, help='output file')
 
-src=home+"/../../COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/*.csv"
-tgt=home+"/../data/cases.csv"
+args = parser.parse_args()
 
-print("src is ",src)
-print("tgt is ",tgt)
 # %%
-files=glob.glob(src)
+files=glob.glob(args.src + "/*.csv")
+files.sort()
+files
 
-dfs = [pd.read_csv(f, parse_dates=['Last Update'], infer_datetime_format=True) for f in files]
 
+# %%
+def filedate(f):
+    matchObj = re.match( r'^.*\/(\d{2})-(\d{2})-(\d{4}).csv$', f, re.M)
+    result=None
+    if matchObj:
+        result= datetime.datetime(int(matchObj.group(3)), int(matchObj.group(1)), int(matchObj.group(2)))
+    return result
+
+[ filedate(f) for f in files ]
+
+
+# %%
+#dfs = [pd.read_csv(f, parse_dates=['Last Update'], infer_datetime_format=True) for f in files]
+
+def read_csv(d, f):
+    df = pd.read_csv(f);
+    df.insert(0, 'Date', d)
+
+    df = df.rename(columns={'Province_State': "Province/State", 'Country_Region': 'Country/Region', 'Lat': 'Latitude', 'Long_': 'Longitude', 'Last_Update:': 'Last Update'})
+    return df
+
+dfs = [read_csv(filedate(f), f) for f in files]
+
+for df in dfs:
+    print (df.dtypes)
+
+
+# %%
 df = pd.concat(dfs,ignore_index=True)
 
-
-# %%
 df.dtypes
 
 
 # %%
-s=df.sort_values(by=['Last Update', 'Country/Region', 'Province/State'])
-s.drop_duplicates(subset =['Last Update', 'Country/Region', 'Province/State'], keep = False, inplace = True) 
+s=df.sort_values(by=['Date', 'Country/Region', 'Province/State', 'Admin2'])
+
 
 # %%
-s.to_csv(tgt, index=False)
+s.to_csv(args.out, index=False)
