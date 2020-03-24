@@ -16,8 +16,10 @@ args = parser.parse_args()
 #Load Sources
 srcdir=args.src
 
-cFile="time_series_covid19_confirmed_global.csv"
-dFile="time_series_covid19_deaths_global.csv"
+#cFile="time_series_covid19_confirmed_global.csv"
+#dFile="time_series_covid19_deaths_global.csv"
+cFile="time_series_19-covid-Confirmed.csv"
+dFile="time_series_19-covid-Deaths.csv"
 rFile="time_series_19-covid-Recovered.csv"
 
 cDF = pd.read_csv(srcdir+cFile)
