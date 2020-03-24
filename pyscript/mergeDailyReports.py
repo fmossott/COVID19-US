@@ -12,7 +12,7 @@ import argparse
 # %%
 parser = argparse.ArgumentParser(description='Merge daily reports files')
 parser.add_argument('--src','-s', metavar='srcdir', required=True, help='src directory')
-parser.add_argument('--out','-o', metavar="outfile", required=True, help='output file')
+parser.add_argument('--out','-o', metavar="outdir", required=True, help='output directory')
 
 args = parser.parse_args()
 
@@ -52,4 +52,12 @@ s=s[start_cols + [c for c in df if c not in start_cols]]
 
 
 # %%
-s.to_csv(args.out, index=False)
+s.to_csv(args.out+"/daily_raw.csv", index=False)
+
+# %%
+cols=['Date', 'Country/Region', 'Province/State']
+vals=['Confirmed','Deaths','Recovered','Active']
+
+a = s[cols+vals].groupby(cols).agg('sum')
+
+a.to_csv(args.out+"/daily_prov.csv")
