@@ -5,6 +5,8 @@ import pandas as pd
 import glob
 import re
 import datetime
+import argparse
+
 
 
 # %%
@@ -17,8 +19,6 @@ args = parser.parse_args()
 # %%
 files=glob.glob(args.src + "/*.csv")
 files.sort()
-files
-
 
 # %%
 def filedate(f):
@@ -27,9 +27,6 @@ def filedate(f):
     if matchObj:
         result= datetime.datetime(int(matchObj.group(3)), int(matchObj.group(1)), int(matchObj.group(2)))
     return result
-
-[ filedate(f) for f in files ]
-
 
 # %%
 #dfs = [pd.read_csv(f, parse_dates=['Last Update'], infer_datetime_format=True) for f in files]
@@ -43,15 +40,8 @@ def read_csv(d, f):
 
 dfs = [read_csv(filedate(f), f) for f in files]
 
-for df in dfs:
-    print (df.dtypes)
-
-
 # %%
 df = pd.concat(dfs,ignore_index=True)
-
-df.dtypes
-
 
 # %%
 s=df.sort_values(by=['Date', 'Country/Region', 'Province/State', 'Admin2'])
