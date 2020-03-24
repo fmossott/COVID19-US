@@ -46,6 +46,10 @@ df = pd.concat(dfs,ignore_index=True)
 # %%
 s=df.sort_values(by=['Date', 'Country/Region', 'Province/State', 'Admin2'])
 
+# %%
+start_cols=['Date', 'Country/Region', 'Province/State', 'Admin2']
+s=s[start_cols + [c for c in df if c not in start_cols]]
+
 
 # %%
 s.to_csv(args.out, index=False)
