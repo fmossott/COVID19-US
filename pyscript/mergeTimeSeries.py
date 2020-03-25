@@ -2,6 +2,7 @@
 # To add a new markdown cell, type '# %% [markdown]'
 # %%
 import pandas as pd
+import numpy as np
 import glob
 import argparse
 
@@ -35,10 +36,13 @@ dates
 def dayData(d):
     day_cDF = cDF[['Province/State','Country/Region',d]].rename(columns={d: "Confirmed"})
     day_dDF = dDF[['Province/State','Country/Region',d]].rename(columns={d: "Deaths"})
-    day_rDF = rDF[['Province/State','Country/Region',d]].rename(columns={d: "Recovered"})
+    dayDF = pd.merge(day_cDF, day_dDF, on=['Province/State','Country/Region'], how="outer")
 
-    tmp = pd.merge(day_cDF, day_dDF, on=['Province/State','Country/Region'], how="outer")
-    dayDF = pd.merge(tmp, day_rDF, on=['Province/State','Country/Region'], how="outer")
+    if d in rDF.columns:
+        day_rDF = rDF[['Province/State','Country/Region',d]].rename(columns={d: "Recovered"})
+        dayDF = pd.merge(dayDF, day_rDF, on=['Province/State','Country/Region'], how="outer")
+    else:
+        dayDF['Recovered']=np.nan
 
     dayDF.insert(0,'Date',d)
 

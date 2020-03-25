@@ -29,7 +29,7 @@ git checkout master
 
 # Process data
 banner "Process data"
-#python3 pyscript/mergeTimeSeries.py -s ../COVID-19/csse_covid_19_data/csse_covid_19_time_series/ -o data/ts_raw.csv
+python3 pyscript/mergeTimeSeries.py -s ../COVID-19/csse_covid_19_data/csse_covid_19_time_series/ -o data/ts_raw.csv
 python3 pyscript/mergeDailyReports.py -s ../COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/ -o data/
 
 # Check changes, commit and push

@@ -864,7 +864,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/7/20,Xinjiang,China,39.0,0.0,0.0
 2/7/20,Yunnan,China,138.0,0.0,12.0
 2/7/20,Zhejiang,China,1006.0,0.0,123.0
-2/7/20,Diamond Princess,Cruise Ship,61.0,0.0,0.0
+2/7/20,,Diamond Princess,61.0,0.0,
 2/7/20,,Finland,1.0,0.0,0.0
 2/7/20,,France,6.0,0.0,
 2/7/20,,Germany,13.0,0.0,0.0
@@ -927,7 +927,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/8/20,Xinjiang,China,42.0,0.0,0.0
 2/8/20,Yunnan,China,138.0,0.0,17.0
 2/8/20,Zhejiang,China,1048.0,0.0,175.0
-2/8/20,Diamond Princess,Cruise Ship,61.0,0.0,0.0
+2/8/20,,Diamond Princess,61.0,0.0,
 2/8/20,,Finland,1.0,0.0,0.0
 2/8/20,,France,11.0,0.0,
 2/8/20,,Germany,13.0,0.0,0.0
@@ -990,7 +990,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/9/20,Xinjiang,China,45.0,0.0,0.0
 2/9/20,Yunnan,China,141.0,0.0,18.0
 2/9/20,Zhejiang,China,1075.0,0.0,201.0
-2/9/20,Diamond Princess,Cruise Ship,64.0,0.0,0.0
+2/9/20,,Diamond Princess,64.0,0.0,
 2/9/20,,Finland,1.0,0.0,0.0
 2/9/20,,France,11.0,0.0,
 2/9/20,,Germany,14.0,0.0,0.0
@@ -1055,7 +1055,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/10/20,Xinjiang,China,49.0,0.0,0.0
 2/10/20,Yunnan,China,149.0,0.0,19.0
 2/10/20,Zhejiang,China,1092.0,0.0,242.0
-2/10/20,Diamond Princess,Cruise Ship,135.0,0.0,0.0
+2/10/20,,Diamond Princess,135.0,0.0,
 2/10/20,,Finland,1.0,0.0,0.0
 2/10/20,,France,11.0,0.0,
 2/10/20,,Germany,14.0,0.0,0.0
@@ -1120,7 +1120,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/11/20,Xinjiang,China,55.0,0.0,3.0
 2/11/20,Yunnan,China,153.0,0.0,20.0
 2/11/20,Zhejiang,China,1117.0,0.0,270.0
-2/11/20,Diamond Princess,Cruise Ship,135.0,0.0,0.0
+2/11/20,,Diamond Princess,135.0,0.0,
 2/11/20,,Finland,1.0,0.0,0.0
 2/11/20,,France,11.0,0.0,
 2/11/20,,Germany,16.0,0.0,0.0
@@ -1185,7 +1185,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/12/20,Xinjiang,China,59.0,0.0,3.0
 2/12/20,Yunnan,China,154.0,0.0,26.0
 2/12/20,Zhejiang,China,1131.0,0.0,321.0
-2/12/20,Diamond Princess,Cruise Ship,175.0,0.0,0.0
+2/12/20,,Diamond Princess,175.0,0.0,
 2/12/20,,Finland,1.0,0.0,1.0
 2/12/20,,France,11.0,0.0,
 2/12/20,,Germany,16.0,0.0,0.0
@@ -1252,7 +1252,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/13/20,Xinjiang,China,63.0,1.0,6.0
 2/13/20,Yunnan,China,156.0,0.0,27.0
 2/13/20,Zhejiang,China,1145.0,0.0,360.0
-2/13/20,Diamond Princess,Cruise Ship,175.0,0.0,0.0
+2/13/20,,Diamond Princess,175.0,0.0,
 2/13/20,,Finland,1.0,0.0,1.0
 2/13/20,,France,11.0,0.0,
 2/13/20,,Germany,16.0,0.0,1.0
@@ -1319,7 +1319,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/14/20,Xinjiang,China,65.0,1.0,6.0
 2/14/20,Yunnan,China,162.0,0.0,36.0
 2/14/20,Zhejiang,China,1155.0,0.0,403.0
-2/14/20,Diamond Princess,Cruise Ship,218.0,0.0,0.0
+2/14/20,,Diamond Princess,218.0,0.0,
 2/14/20,,Egypt,1.0,0.0,0.0
 2/14/20,,Finland,1.0,0.0,1.0
 2/14/20,,France,11.0,0.0,
@@ -1387,7 +1387,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/15/20,Xinjiang,China,70.0,1.0,10.0
 2/15/20,Yunnan,China,168.0,0.0,42.0
 2/15/20,Zhejiang,China,1162.0,0.0,428.0
-2/15/20,Diamond Princess,Cruise Ship,285.0,0.0,0.0
+2/15/20,,Diamond Princess,285.0,0.0,
 2/15/20,,Egypt,1.0,0.0,0.0
 2/15/20,,Finland,1.0,0.0,1.0
 2/15/20,,France,12.0,1.0,
@@ -1455,7 +1455,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/16/20,Xinjiang,China,71.0,1.0,12.0
 2/16/20,Yunnan,China,171.0,0.0,42.0
 2/16/20,Zhejiang,China,1167.0,0.0,456.0
-2/16/20,Diamond Princess,Cruise Ship,355.0,0.0,0.0
+2/16/20,,Diamond Princess,355.0,0.0,
 2/16/20,,Egypt,1.0,0.0,0.0
 2/16/20,,Finland,1.0,0.0,1.0
 2/16/20,,France,12.0,1.0,
@@ -1523,7 +1523,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/17/20,Xinjiang,China,75.0,1.0,12.0
 2/17/20,Yunnan,China,171.0,0.0,47.0
 2/17/20,Zhejiang,China,1171.0,0.0,507.0
-2/17/20,Diamond Princess,Cruise Ship,454.0,0.0,0.0
+2/17/20,,Diamond Princess,454.0,0.0,
 2/17/20,,Egypt,1.0,0.0,0.0
 2/17/20,,Finland,1.0,0.0,1.0
 2/17/20,,France,12.0,1.0,
@@ -1591,7 +1591,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/18/20,Xinjiang,China,76.0,1.0,12.0
 2/18/20,Yunnan,China,172.0,0.0,57.0
 2/18/20,Zhejiang,China,1172.0,0.0,535.0
-2/18/20,Diamond Princess,Cruise Ship,542.0,0.0,0.0
+2/18/20,,Diamond Princess,542.0,0.0,
 2/18/20,,Egypt,1.0,0.0,0.0
 2/18/20,,Finland,1.0,0.0,1.0
 2/18/20,,France,12.0,1.0,
@@ -1659,7 +1659,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/19/20,Xinjiang,China,76.0,1.0,20.0
 2/19/20,Yunnan,China,172.0,1.0,60.0
 2/19/20,Zhejiang,China,1174.0,0.0,604.0
-2/19/20,Diamond Princess,Cruise Ship,621.0,0.0,1.0
+2/19/20,,Diamond Princess,621.0,0.0,
 2/19/20,,Egypt,1.0,0.0,0.0
 2/19/20,,Finland,1.0,0.0,1.0
 2/19/20,,France,12.0,1.0,
@@ -1684,6 +1684,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/19/20,,US,13.0,0.0,
 2/19/20,,Vietnam,16.0,0.0,7.0
 2/19/20,France,France,,,4.0
+2/19/20,Diamond Princess,Cruise Ship,,,1.0
 2/19/20,"King County, WA",US,,,1.0
 2/19/20,"Cook County, IL",US,,,2.0
 2/19/20,United Kingdom,United Kingdom,,,8.0
@@ -1728,7 +1729,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/20/20,Xinjiang,China,76.0,1.0,22.0
 2/20/20,Yunnan,China,174.0,2.0,79.0
 2/20/20,Zhejiang,China,1175.0,1.0,633.0
-2/20/20,Diamond Princess,Cruise Ship,634.0,2.0,1.0
+2/20/20,,Diamond Princess,634.0,2.0,
 2/20/20,,Egypt,1.0,0.0,0.0
 2/20/20,,Finland,1.0,0.0,1.0
 2/20/20,,France,12.0,1.0,
@@ -1753,6 +1754,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/20/20,,US,13.0,0.0,
 2/20/20,,Vietnam,16.0,0.0,7.0
 2/20/20,France,France,,,4.0
+2/20/20,Diamond Princess,Cruise Ship,,,1.0
 2/20/20,"King County, WA",US,,,1.0
 2/20/20,"Cook County, IL",US,,,2.0
 2/20/20,United Kingdom,United Kingdom,,,8.0
@@ -1797,7 +1799,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/21/20,Xinjiang,China,76.0,1.0,24.0
 2/21/20,Yunnan,China,174.0,2.0,96.0
 2/21/20,Zhejiang,China,1203.0,1.0,679.0
-2/21/20,Diamond Princess,Cruise Ship,634.0,2.0,1.0
+2/21/20,,Diamond Princess,634.0,2.0,
 2/21/20,,Egypt,1.0,0.0,0.0
 2/21/20,,Finland,1.0,0.0,1.0
 2/21/20,,France,12.0,1.0,
@@ -1824,6 +1826,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/21/20,,US,15.0,0.0,
 2/21/20,,Vietnam,16.0,0.0,14.0
 2/21/20,France,France,,,4.0
+2/21/20,Diamond Princess,Cruise Ship,,,1.0
 2/21/20,"Santa Clara County, CA",US,,,1.0
 2/21/20,"San Diego County, CA",US,,,1.0
 2/21/20,"King County, WA",US,,,1.0
@@ -1870,7 +1873,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/22/20,Xinjiang,China,76.0,2.0,25.0
 2/22/20,Yunnan,China,174.0,2.0,107.0
 2/22/20,Zhejiang,China,1205.0,1.0,719.0
-2/22/20,Diamond Princess,Cruise Ship,634.0,2.0,1.0
+2/22/20,,Diamond Princess,634.0,2.0,
 2/22/20,,Egypt,1.0,0.0,0.0
 2/22/20,,Finland,1.0,0.0,1.0
 2/22/20,,France,12.0,1.0,
@@ -1897,6 +1900,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/22/20,,US,15.0,0.0,
 2/22/20,,Vietnam,16.0,0.0,14.0
 2/22/20,France,France,,,4.0
+2/22/20,Diamond Princess,Cruise Ship,,,1.0
 2/22/20,"Santa Clara County, CA",US,,,1.0
 2/22/20,"San Diego County, CA",US,,,1.0
 2/22/20,"King County, WA",US,,,1.0
@@ -1943,7 +1947,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/23/20,Xinjiang,China,76.0,2.0,28.0
 2/23/20,Yunnan,China,174.0,2.0,115.0
 2/23/20,Zhejiang,China,1205.0,1.0,760.0
-2/23/20,Diamond Princess,Cruise Ship,691.0,3.0,0.0
+2/23/20,,Diamond Princess,691.0,3.0,
 2/23/20,,Egypt,1.0,0.0,0.0
 2/23/20,,Finland,1.0,0.0,1.0
 2/23/20,,France,12.0,1.0,
@@ -2018,7 +2022,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/24/20,Xinjiang,China,76.0,2.0,30.0
 2/24/20,Yunnan,China,174.0,2.0,124.0
 2/24/20,Zhejiang,China,1205.0,1.0,782.0
-2/24/20,Diamond Princess,Cruise Ship,691.0,3.0,0.0
+2/24/20,,Diamond Princess,691.0,3.0,
 2/24/20,,Egypt,1.0,0.0,0.0
 2/24/20,,Finland,1.0,0.0,1.0
 2/24/20,,France,12.0,1.0,
@@ -2099,7 +2103,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/25/20,Yunnan,China,174.0,2.0,129.0
 2/25/20,Zhejiang,China,1205.0,1.0,808.0
 2/25/20,,Croatia,1.0,0.0,0.0
-2/25/20,Diamond Princess,Cruise Ship,691.0,3.0,0.0
+2/25/20,,Diamond Princess,691.0,3.0,
 2/25/20,,Egypt,1.0,0.0,0.0
 2/25/20,,Finland,1.0,0.0,1.0
 2/25/20,,France,14.0,1.0,
@@ -2183,7 +2187,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/26/20,Yunnan,China,174.0,2.0,144.0
 2/26/20,Zhejiang,China,1205.0,1.0,867.0
 2/26/20,,Croatia,3.0,0.0,0.0
-2/26/20,Diamond Princess,Cruise Ship,705.0,4.0,10.0
+2/26/20,,Diamond Princess,705.0,4.0,
 2/26/20,,Egypt,1.0,0.0,0.0
 2/26/20,,Finland,2.0,0.0,1.0
 2/26/20,,France,18.0,2.0,
@@ -2220,6 +2224,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/26/20,,US,57.0,0.0,
 2/26/20,,Vietnam,16.0,0.0,16.0
 2/26/20,France,France,,,11.0
+2/26/20,Diamond Princess,Cruise Ship,,,10.0
 2/26/20,"Santa Clara County, CA",US,,,1.0
 2/26/20,"Maricopa County, AZ",US,,,1.0
 2/26/20,"San Diego County, CA",US,,,1.0
@@ -2273,7 +2278,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/27/20,Yunnan,China,174.0,2.0,150.0
 2/27/20,Zhejiang,China,1205.0,1.0,932.0
 2/27/20,,Croatia,3.0,0.0,0.0
-2/27/20,Diamond Princess,Cruise Ship,705.0,4.0,10.0
+2/27/20,,Diamond Princess,705.0,4.0,
 2/27/20,,Denmark,1.0,0.0,
 2/27/20,,Egypt,1.0,0.0,0.0
 2/27/20,,Estonia,1.0,0.0,0.0
@@ -2314,6 +2319,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/27/20,,US,58.0,0.0,
 2/27/20,,Vietnam,16.0,0.0,16.0
 2/27/20,France,France,,,11.0
+2/27/20,Diamond Princess,Cruise Ship,,,10.0
 2/27/20,"Santa Clara County, CA",US,,,1.0
 2/27/20,"Maricopa County, AZ",US,,,1.0
 2/27/20,"San Diego County, CA",US,,,1.0
@@ -2369,7 +2375,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/28/20,Yunnan,China,174.0,2.0,156.0
 2/28/20,Zhejiang,China,1205.0,1.0,975.0
 2/28/20,,Croatia,5.0,0.0,0.0
-2/28/20,Diamond Princess,Cruise Ship,705.0,6.0,10.0
+2/28/20,,Diamond Princess,705.0,6.0,
 2/28/20,,Denmark,1.0,0.0,
 2/28/20,,Egypt,1.0,0.0,1.0
 2/28/20,,Estonia,1.0,0.0,0.0
@@ -2415,6 +2421,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/28/20,,US,60.0,0.0,
 2/28/20,,Vietnam,16.0,0.0,16.0
 2/28/20,France,France,,,11.0
+2/28/20,Diamond Princess,Cruise Ship,,,10.0
 2/28/20,"Santa Clara County, CA",US,,,1.0
 2/28/20,"Suffolk County, MA",US,,,1.0
 2/28/20,"Maricopa County, AZ",US,,,1.0
@@ -2472,7 +2479,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/29/20,Yunnan,China,174.0,2.0,157.0
 2/29/20,Zhejiang,China,1205.0,1.0,1016.0
 2/29/20,,Croatia,6.0,0.0,0.0
-2/29/20,Diamond Princess,Cruise Ship,705.0,6.0,10.0
+2/29/20,,Diamond Princess,705.0,6.0,
 2/29/20,,Denmark,3.0,0.0,
 2/29/20,,Egypt,1.0,0.0,1.0
 2/29/20,,Estonia,1.0,0.0,0.0
@@ -2522,6 +2529,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 2/29/20,,US,68.0,1.0,
 2/29/20,,Vietnam,16.0,0.0,16.0
 2/29/20,France,France,,,12.0
+2/29/20,Diamond Princess,Cruise Ship,,,10.0
 2/29/20,"Santa Clara County, CA",US,,,1.0
 2/29/20,"Suffolk County, MA",US,,,1.0
 2/29/20,"Maricopa County, AZ",US,,,1.0
@@ -2581,7 +2589,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/1/20,Yunnan,China,174.0,2.0,163.0
 3/1/20,Zhejiang,China,1205.0,1.0,1046.0
 3/1/20,,Croatia,7.0,0.0,0.0
-3/1/20,Diamond Princess,Cruise Ship,705.0,6.0,10.0
+3/1/20,,Diamond Princess,705.0,6.0,
 3/1/20,,Czechia,3.0,0.0,0.0
 3/1/20,,Denmark,4.0,0.0,
 3/1/20,,Dominican Republic,1.0,0.0,0.0
@@ -2634,6 +2642,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/1/20,,US,74.0,1.0,
 3/1/20,,Vietnam,16.0,0.0,16.0
 3/1/20,France,France,,,12.0
+3/1/20,Diamond Princess,Cruise Ship,,,10.0
 3/1/20,"Santa Clara County, CA",US,,,1.0
 3/1/20,"Suffolk County, MA",US,,,1.0
 3/1/20,"Maricopa County, AZ",US,,,1.0
@@ -2695,7 +2704,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/2/20,Yunnan,China,174.0,2.0,168.0
 3/2/20,Zhejiang,China,1206.0,1.0,1069.0
 3/2/20,,Croatia,7.0,0.0,0.0
-3/2/20,Diamond Princess,Cruise Ship,705.0,6.0,10.0
+3/2/20,,Diamond Princess,705.0,6.0,
 3/2/20,,Czechia,3.0,0.0,0.0
 3/2/20,,Denmark,4.0,0.0,
 3/2/20,,Dominican Republic,1.0,0.0,0.0
@@ -2754,6 +2763,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/2/20,,US,98.0,6.0,
 3/2/20,,Vietnam,16.0,0.0,16.0
 3/2/20,France,France,,,12.0
+3/2/20,Diamond Princess,Cruise Ship,,,10.0
 3/2/20,"Santa Clara County, CA",US,,,1.0
 3/2/20,"Suffolk County, MA",US,,,1.0
 3/2/20,"Maricopa County, AZ",US,,,1.0
@@ -2817,7 +2827,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/3/20,Yunnan,China,174.0,2.0,169.0
 3/3/20,Zhejiang,China,1213.0,1.0,1093.0
 3/3/20,,Croatia,9.0,0.0,0.0
-3/3/20,Diamond Princess,Cruise Ship,706.0,6.0,10.0
+3/3/20,,Diamond Princess,706.0,6.0,
 3/3/20,,Czechia,5.0,0.0,0.0
 3/3/20,,Denmark,6.0,0.0,
 3/3/20,,Dominican Republic,1.0,0.0,0.0
@@ -2878,6 +2888,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/3/20,,US,118.0,7.0,
 3/3/20,,Vietnam,16.0,0.0,16.0
 3/3/20,France,France,,,12.0
+3/3/20,Diamond Princess,Cruise Ship,,,10.0
 3/3/20,"Santa Clara County, CA",US,,,1.0
 3/3/20,"Suffolk County, MA",US,,,1.0
 3/3/20,"Maricopa County, AZ",US,,,1.0
@@ -2942,7 +2953,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/4/20,Yunnan,China,174.0,2.0,169.0
 3/4/20,Zhejiang,China,1213.0,1.0,1114.0
 3/4/20,,Croatia,10.0,0.0,0.0
-3/4/20,Diamond Princess,Cruise Ship,706.0,6.0,10.0
+3/4/20,,Diamond Princess,706.0,6.0,
 3/4/20,,Czechia,8.0,0.0,0.0
 3/4/20,Faroe Islands,Denmark,1.0,0.0,0.0
 3/4/20,,Denmark,10.0,0.0,
@@ -3010,6 +3021,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/4/20,,US,149.0,11.0,
 3/4/20,,Vietnam,16.0,0.0,16.0
 3/4/20,France,France,,,12.0
+3/4/20,Diamond Princess,Cruise Ship,,,10.0
 3/4/20,"Santa Clara County, CA",US,,,1.0
 3/4/20,"Suffolk County, MA",US,,,1.0
 3/4/20,"Maricopa County, AZ",US,,,1.0
@@ -3075,7 +3087,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/5/20,Yunnan,China,174.0,2.0,169.0
 3/5/20,Zhejiang,China,1215.0,1.0,1124.0
 3/5/20,,Croatia,10.0,0.0,0.0
-3/5/20,Diamond Princess,Cruise Ship,706.0,6.0,10.0
+3/5/20,,Diamond Princess,706.0,6.0,
 3/5/20,,Czechia,12.0,0.0,0.0
 3/5/20,Faroe Islands,Denmark,1.0,0.0,0.0
 3/5/20,,Denmark,10.0,0.0,
@@ -3145,6 +3157,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/5/20,,US,217.0,12.0,
 3/5/20,,Vietnam,16.0,0.0,16.0
 3/5/20,France,France,,,12.0
+3/5/20,Diamond Princess,Cruise Ship,,,10.0
 3/5/20,"Santa Clara County, CA",US,,,1.0
 3/5/20,"Suffolk County, MA",US,,,1.0
 3/5/20,"Maricopa County, AZ",US,,,1.0
@@ -3214,7 +3227,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/6/20,,Colombia,1.0,0.0,0.0
 3/6/20,,Costa Rica,1.0,0.0,0.0
 3/6/20,,Croatia,11.0,0.0,0.0
-3/6/20,Diamond Princess,Cruise Ship,706.0,6.0,40.0
+3/6/20,,Diamond Princess,706.0,6.0,
 3/6/20,,Czechia,18.0,0.0,0.0
 3/6/20,Faroe Islands,Denmark,1.0,0.0,0.0
 3/6/20,,Denmark,23.0,0.0,
@@ -3289,6 +3302,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/6/20,,US,262.0,14.0,
 3/6/20,,Vietnam,16.0,0.0,16.0
 3/6/20,France,France,,,12.0
+3/6/20,Diamond Princess,Cruise Ship,,,40.0
 3/6/20,Denmark,Denmark,,,1.0
 3/6/20,"Santa Clara County, CA",US,,,1.0
 3/6/20,"Suffolk County, MA",US,,,1.0
@@ -3359,7 +3373,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/7/20,,Colombia,1.0,0.0,0.0
 3/7/20,,Costa Rica,1.0,0.0,0.0
 3/7/20,,Croatia,12.0,0.0,0.0
-3/7/20,Diamond Princess,Cruise Ship,706.0,6.0,40.0
+3/7/20,,Diamond Princess,706.0,6.0,
 3/7/20,,Czechia,19.0,0.0,0.0
 3/7/20,Faroe Islands,Denmark,1.0,0.0,0.0
 3/7/20,,Denmark,23.0,0.0,
@@ -3437,6 +3451,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/7/20,,US,402.0,17.0,
 3/7/20,,Vietnam,18.0,0.0,16.0
 3/7/20,France,France,,,12.0
+3/7/20,Diamond Princess,Cruise Ship,,,40.0
 3/7/20,Denmark,Denmark,,,1.0
 3/7/20,"Santa Clara County, CA",US,,,1.0
 3/7/20,"Suffolk County, MA",US,,,1.0
@@ -3509,7 +3524,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/8/20,,Colombia,1.0,0.0,0.0
 3/8/20,,Costa Rica,5.0,0.0,0.0
 3/8/20,,Croatia,12.0,0.0,0.0
-3/8/20,Diamond Princess,Cruise Ship,706.0,6.0,40.0
+3/8/20,,Diamond Princess,706.0,6.0,
 3/8/20,,Czechia,31.0,0.0,0.0
 3/8/20,Faroe Islands,Denmark,2.0,0.0,0.0
 3/8/20,,Denmark,35.0,0.0,
@@ -3590,6 +3605,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/8/20,,US,518.0,21.0,
 3/8/20,,Vietnam,30.0,0.0,16.0
 3/8/20,France,France,,,12.0
+3/8/20,Diamond Princess,Cruise Ship,,,40.0
 3/8/20,Denmark,Denmark,,,1.0
 3/8/20,"Santa Clara County, CA",US,,,1.0
 3/8/20,"Suffolk County, MA",US,,,1.0
@@ -3664,7 +3680,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/9/20,,Colombia,1.0,0.0,0.0
 3/9/20,,Costa Rica,9.0,0.0,0.0
 3/9/20,,Croatia,12.0,0.0,0.0
-3/9/20,Diamond Princess,Cruise Ship,706.0,6.0,40.0
+3/9/20,,Diamond Princess,706.0,6.0,
 3/9/20,,Cyprus,2.0,0.0,0.0
 3/9/20,,Czechia,31.0,0.0,0.0
 3/9/20,Faroe Islands,Denmark,2.0,0.0,0.0
@@ -3747,6 +3763,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/9/20,,US,583.0,22.0,
 3/9/20,,Vietnam,30.0,0.0,16.0
 3/9/20,France,France,,,12.0
+3/9/20,Diamond Princess,Cruise Ship,,,40.0
 3/9/20,Denmark,Denmark,,,1.0
 3/9/20,"Santa Clara County, CA",US,,,1.0
 3/9/20,"Suffolk County, MA",US,,,1.0
@@ -3823,7 +3840,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/10/20,,Colombia,3.0,0.0,0.0
 3/10/20,,Costa Rica,9.0,0.0,0.0
 3/10/20,,Croatia,14.0,0.0,0.0
-3/10/20,Diamond Princess,Cruise Ship,706.0,6.0,40.0
+3/10/20,,Diamond Princess,706.0,6.0,
 3/10/20,,Cyprus,3.0,0.0,0.0
 3/10/20,,Czechia,41.0,0.0,0.0
 3/10/20,Faroe Islands,Denmark,2.0,0.0,0.0
@@ -3915,6 +3932,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/10/20,Arizona,US,,,1.0
 3/10/20,Wisconsin,US,,,1.0
 3/10/20,France,France,,,12.0
+3/10/20,Diamond Princess,Cruise Ship,,,40.0
 3/10/20,Denmark,Denmark,,,1.0
 3/10/20,United Kingdom,United Kingdom,,,18.0
 3/11/20,,Afghanistan,7.0,0.0,0.0
@@ -3989,7 +4007,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/11/20,,Costa Rica,13.0,0.0,0.0
 3/11/20,,Cote d'Ivoire,1.0,0.0,0.0
 3/11/20,,Croatia,19.0,0.0,0.0
-3/11/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/11/20,,Diamond Princess,706.0,7.0,
 3/11/20,,Cyprus,6.0,0.0,0.0
 3/11/20,,Czechia,91.0,0.0,0.0
 3/11/20,Faroe Islands,Denmark,2.0,0.0,0.0
@@ -4085,6 +4103,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/11/20,Arizona,US,,,1.0
 3/11/20,Wisconsin,US,,,1.0
 3/11/20,France,France,,,12.0
+3/11/20,Diamond Princess,Cruise Ship,,,325.0
 3/11/20,Denmark,Denmark,,,1.0
 3/11/20,United Kingdom,United Kingdom,,,18.0
 3/12/20,,Afghanistan,7.0,0.0,0.0
@@ -4159,7 +4178,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/12/20,,Costa Rica,22.0,0.0,0.0
 3/12/20,,Cote d'Ivoire,1.0,0.0,0.0
 3/12/20,,Croatia,19.0,0.0,0.0
-3/12/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/12/20,,Diamond Princess,706.0,7.0,
 3/12/20,,Cuba,3.0,0.0,0.0
 3/12/20,,Cyprus,6.0,0.0,0.0
 3/12/20,,Czechia,94.0,0.0,0.0
@@ -4257,6 +4276,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/12/20,Arizona,US,,,1.0
 3/12/20,Wisconsin,US,,,1.0
 3/12/20,France,France,,,12.0
+3/12/20,Diamond Princess,Cruise Ship,,,325.0
 3/12/20,Denmark,Denmark,,,1.0
 3/12/20,United Kingdom,United Kingdom,,,18.0
 3/13/20,,Afghanistan,7.0,0.0,0.0
@@ -4336,7 +4356,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/13/20,,Costa Rica,23.0,0.0,0.0
 3/13/20,,Cote d'Ivoire,1.0,0.0,0.0
 3/13/20,,Croatia,32.0,0.0,1.0
-3/13/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/13/20,,Diamond Princess,706.0,7.0,
 3/13/20,,Cuba,4.0,0.0,0.0
 3/13/20,,Cyprus,14.0,0.0,0.0
 3/13/20,,Czechia,141.0,0.0,0.0
@@ -4443,6 +4463,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/13/20,Arizona,US,,,1.0
 3/13/20,Wisconsin,US,,,1.0
 3/13/20,France,France,,,12.0
+3/13/20,Diamond Princess,Cruise Ship,,,325.0
 3/13/20,Denmark,Denmark,,,1.0
 3/13/20,United Kingdom,United Kingdom,,,18.0
 3/14/20,,Afghanistan,11.0,0.0,0.0
@@ -4522,7 +4543,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/14/20,,Costa Rica,26.0,0.0,0.0
 3/14/20,,Cote d'Ivoire,1.0,0.0,0.0
 3/14/20,,Croatia,38.0,0.0,1.0
-3/14/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/14/20,,Diamond Princess,706.0,7.0,
 3/14/20,,Cuba,4.0,0.0,0.0
 3/14/20,,Cyprus,26.0,0.0,0.0
 3/14/20,,Czechia,189.0,0.0,0.0
@@ -4644,6 +4665,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/14/20,Arizona,US,,,1.0
 3/14/20,Wisconsin,US,,,1.0
 3/14/20,France,France,,,12.0
+3/14/20,Diamond Princess,Cruise Ship,,,325.0
 3/14/20,Denmark,Denmark,,,1.0
 3/14/20,United Kingdom,United Kingdom,,,18.0
 3/14/20,Netherlands,Netherlands,,,2.0
@@ -4728,7 +4750,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/15/20,,Costa Rica,27.0,0.0,0.0
 3/15/20,,Cote d'Ivoire,1.0,0.0,0.0
 3/15/20,,Croatia,49.0,0.0,1.0
-3/15/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/15/20,,Diamond Princess,706.0,7.0,
 3/15/20,,Cuba,4.0,0.0,0.0
 3/15/20,,Cyprus,26.0,0.0,0.0
 3/15/20,,Czechia,253.0,0.0,0.0
@@ -4853,6 +4875,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/15/20,Arizona,US,,,1.0
 3/15/20,Wisconsin,US,,,1.0
 3/15/20,France,France,,,12.0
+3/15/20,Diamond Princess,Cruise Ship,,,325.0
 3/15/20,Denmark,Denmark,,,1.0
 3/15/20,United Kingdom,United Kingdom,,,18.0
 3/15/20,Netherlands,Netherlands,,,2.0
@@ -4940,7 +4963,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/16/20,,Costa Rica,35.0,0.0,0.0
 3/16/20,,Cote d'Ivoire,1.0,0.0,0.0
 3/16/20,,Croatia,57.0,0.0,2.0
-3/16/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/16/20,,Diamond Princess,706.0,7.0,
 3/16/20,,Cuba,4.0,0.0,0.0
 3/16/20,,Cyprus,33.0,0.0,0.0
 3/16/20,,Czechia,298.0,0.0,3.0
@@ -5072,6 +5095,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/16/20,Kentucky,US,,,1.0
 3/16/20,Wisconsin,US,,,1.0
 3/16/20,France,France,,,12.0
+3/16/20,Diamond Princess,Cruise Ship,,,325.0
 3/16/20,Denmark,Denmark,,,1.0
 3/16/20,United Kingdom,United Kingdom,,,20.0
 3/16/20,Netherlands,Netherlands,,,2.0
@@ -5160,7 +5184,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/17/20,,Costa Rica,41.0,0.0,0.0
 3/17/20,,Cote d'Ivoire,5.0,0.0,1.0
 3/17/20,,Croatia,65.0,0.0,4.0
-3/17/20,Diamond Princess,Cruise Ship,706.0,7.0,325.0
+3/17/20,,Diamond Princess,706.0,7.0,
 3/17/20,,Cuba,5.0,0.0,0.0
 3/17/20,,Cyprus,46.0,0.0,0.0
 3/17/20,,Czechia,396.0,0.0,3.0
@@ -5294,6 +5318,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/17/20,Kentucky,US,,,1.0
 3/17/20,Wisconsin,US,,,1.0
 3/17/20,France,France,,,12.0
+3/17/20,Diamond Princess,Cruise Ship,,,325.0
 3/17/20,Denmark,Denmark,,,1.0
 3/17/20,United Kingdom,United Kingdom,,,52.0
 3/17/20,Netherlands,Netherlands,,,2.0
@@ -5382,7 +5407,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/18/20,,Costa Rica,50.0,0.0,0.0
 3/18/20,,Cote d'Ivoire,6.0,0.0,1.0
 3/18/20,,Croatia,81.0,0.0,4.0
-3/18/20,Diamond Princess,Cruise Ship,712.0,7.0,325.0
+3/18/20,,Diamond Princess,712.0,7.0,
 3/18/20,,Cuba,7.0,1.0,0.0
 3/18/20,,Cyprus,49.0,0.0,0.0
 3/18/20,,Czechia,464.0,0.0,3.0
@@ -5512,6 +5537,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/18/20,,Vietnam,75.0,0.0,16.0
 3/18/20,,Zambia,2.0,0.0,0.0
 3/18/20,France,France,,,12.0
+3/18/20,Diamond Princess,Cruise Ship,,,325.0
 3/18/20,Denmark,Denmark,,,1.0
 3/18/20,United Kingdom,United Kingdom,,,65.0
 3/18/20,Netherlands,Netherlands,,,2.0
@@ -5601,7 +5627,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/19/20,,Costa Rica,69.0,1.0,0.0
 3/19/20,,Cote d'Ivoire,9.0,0.0,1.0
 3/19/20,,Croatia,105.0,1.0,5.0
-3/19/20,Diamond Princess,Cruise Ship,712.0,7.0,325.0
+3/19/20,,Diamond Princess,712.0,7.0,
 3/19/20,,Cuba,11.0,1.0,0.0
 3/19/20,,Cyprus,67.0,0.0,0.0
 3/19/20,,Czechia,694.0,0.0,3.0
@@ -5736,6 +5762,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/19/20,,Vietnam,85.0,0.0,16.0
 3/19/20,,Zambia,2.0,0.0,0.0
 3/19/20,France,France,,,12.0
+3/19/20,Diamond Princess,Cruise Ship,,,325.0
 3/19/20,Denmark,Denmark,,,1.0
 3/19/20,United Kingdom,United Kingdom,,,65.0
 3/19/20,Netherlands,Netherlands,,,2.0
@@ -5827,7 +5854,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/20/20,,Costa Rica,89.0,1.0,0.0
 3/20/20,,Cote d'Ivoire,9.0,0.0,1.0
 3/20/20,,Croatia,128.0,1.0,5.0
-3/20/20,Diamond Princess,Cruise Ship,712.0,7.0,325.0
+3/20/20,,Diamond Princess,712.0,7.0,
 3/20/20,,Cuba,16.0,1.0,0.0
 3/20/20,,Cyprus,67.0,0.0,0.0
 3/20/20,,Czechia,833.0,0.0,4.0
@@ -5969,6 +5996,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/20/20,,Zambia,2.0,0.0,0.0
 3/20/20,,Zimbabwe,1.0,0.0,0.0
 3/20/20,France,France,,,12.0
+3/20/20,Diamond Princess,Cruise Ship,,,325.0
 3/20/20,Denmark,Denmark,,,1.0
 3/20/20,United Kingdom,United Kingdom,,,65.0
 3/20/20,Netherlands,Netherlands,,,2.0
@@ -6060,7 +6088,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/21/20,,Costa Rica,117.0,2.0,2.0
 3/21/20,,Cote d'Ivoire,14.0,0.0,1.0
 3/21/20,,Croatia,206.0,1.0,5.0
-3/21/20,Diamond Princess,Cruise Ship,712.0,8.0,325.0
+3/21/20,,Diamond Princess,712.0,8.0,
 3/21/20,,Cuba,21.0,1.0,0.0
 3/21/20,,Cyprus,84.0,0.0,0.0
 3/21/20,,Czechia,995.0,0.0,6.0
@@ -6204,6 +6232,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/21/20,,Zambia,2.0,0.0,0.0
 3/21/20,,Zimbabwe,3.0,0.0,0.0
 3/21/20,France,France,,,12.0
+3/21/20,Diamond Princess,Cruise Ship,,,325.0
 3/21/20,Denmark,Denmark,,,1.0
 3/21/20,United Kingdom,United Kingdom,,,65.0
 3/21/20,Netherlands,Netherlands,,,2.0
@@ -6295,7 +6324,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/22/20,,Costa Rica,134.0,2.0,2.0
 3/22/20,,Cote d'Ivoire,14.0,0.0,1.0
 3/22/20,,Croatia,254.0,1.0,5.0
-3/22/20,Diamond Princess,Cruise Ship,712.0,8.0,325.0
+3/22/20,,Diamond Princess,712.0,8.0,
 3/22/20,,Cuba,35.0,1.0,0.0
 3/22/20,,Cyprus,95.0,1.0,3.0
 3/22/20,,Czechia,1120.0,1.0,6.0
@@ -6445,6 +6474,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/22/20,,Syria,1.0,0.0,0.0
 3/22/20,,Timor-Leste,1.0,0.0,0.0
 3/22/20,France,France,,,2200.0
+3/22/20,Diamond Princess,Cruise Ship,,,325.0
 3/22/20,Denmark,Denmark,,,1.0
 3/22/20,United Kingdom,United Kingdom,,,65.0
 3/22/20,Netherlands,Netherlands,,,2.0
@@ -6536,7 +6566,7 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/23/20,,Costa Rica,158.0,2.0,2.0
 3/23/20,,Cote d'Ivoire,25.0,0.0,1.0
 3/23/20,,Croatia,315.0,1.0,5.0
-3/23/20,Diamond Princess,Cruise Ship,712.0,8.0,325.0
+3/23/20,,Diamond Princess,712.0,8.0,
 3/23/20,,Cuba,40.0,1.0,0.0
 3/23/20,,Cyprus,116.0,1.0,3.0
 3/23/20,,Czechia,1236.0,1.0,6.0
@@ -6687,8 +6717,249 @@ Date,Province/State,Country/Region,Confirmed,Deaths,Recovered
 3/23/20,,Timor-Leste,1.0,0.0,0.0
 3/23/20,,Belize,1.0,0.0,
 3/23/20,France,France,,,2200.0
+3/23/20,Diamond Princess,Cruise Ship,,,325.0
 3/23/20,Denmark,Denmark,,,1.0
 3/23/20,United Kingdom,United Kingdom,,,65.0
 3/23/20,Netherlands,Netherlands,,,2.0
 3/23/20,,French Guiana,,,6.0
 3/23/20,US,US,,,178.0
+3/24/20,,Afghanistan,74.0,1.0,
+3/24/20,,Albania,123.0,5.0,
+3/24/20,,Algeria,264.0,19.0,
+3/24/20,,Andorra,164.0,1.0,
+3/24/20,,Angola,3.0,0.0,
+3/24/20,,Antigua and Barbuda,3.0,0.0,
+3/24/20,,Argentina,387.0,6.0,
+3/24/20,,Armenia,249.0,0.0,
+3/24/20,Australian Capital Territory,Australia,39.0,0.0,
+3/24/20,New South Wales,Australia,818.0,7.0,
+3/24/20,Northern Territory,Australia,6.0,0.0,
+3/24/20,Queensland,Australia,397.0,0.0,
+3/24/20,South Australia,Australia,170.0,0.0,
+3/24/20,Tasmania,Australia,28.0,0.0,
+3/24/20,Victoria,Australia,411.0,0.0,
+3/24/20,Western Australia,Australia,175.0,1.0,
+3/24/20,,Austria,5283.0,28.0,
+3/24/20,,Azerbaijan,87.0,1.0,
+3/24/20,,Bahamas,5.0,0.0,
+3/24/20,,Bahrain,392.0,3.0,
+3/24/20,,Bangladesh,39.0,4.0,
+3/24/20,,Barbados,18.0,0.0,
+3/24/20,,Belarus,81.0,0.0,
+3/24/20,,Belgium,4269.0,122.0,
+3/24/20,,Benin,6.0,0.0,
+3/24/20,,Bhutan,2.0,0.0,
+3/24/20,,Bolivia,29.0,0.0,
+3/24/20,,Bosnia and Herzegovina,166.0,3.0,
+3/24/20,,Brazil,2247.0,46.0,
+3/24/20,,Brunei,104.0,0.0,
+3/24/20,,Bulgaria,218.0,3.0,
+3/24/20,,Burkina Faso,114.0,4.0,
+3/24/20,,Cabo Verde,3.0,1.0,
+3/24/20,,Cambodia,91.0,0.0,
+3/24/20,,Cameroon,66.0,0.0,
+3/24/20,Alberta,Canada,359.0,1.0,
+3/24/20,British Columbia,Canada,617.0,13.0,
+3/24/20,Grand Princess,Canada,13.0,0.0,
+3/24/20,Manitoba,Canada,21.0,0.0,
+3/24/20,New Brunswick,Canada,18.0,0.0,
+3/24/20,Newfoundland and Labrador,Canada,35.0,0.0,
+3/24/20,Nova Scotia,Canada,51.0,0.0,
+3/24/20,Ontario,Canada,588.0,7.0,
+3/24/20,Prince Edward Island,Canada,3.0,0.0,
+3/24/20,Quebec,Canada,1013.0,4.0,
+3/24/20,Saskatchewan,Canada,72.0,0.0,
+3/24/20,,Central African Republic,3.0,0.0,
+3/24/20,,Chad,3.0,0.0,
+3/24/20,,Chile,922.0,2.0,
+3/24/20,Anhui,China,990.0,6.0,
+3/24/20,Beijing,China,558.0,8.0,
+3/24/20,Chongqing,China,578.0,6.0,
+3/24/20,Fujian,China,318.0,1.0,
+3/24/20,Gansu,China,136.0,2.0,
+3/24/20,Guangdong,China,1428.0,8.0,
+3/24/20,Guangxi,China,254.0,2.0,
+3/24/20,Guizhou,China,146.0,2.0,
+3/24/20,Hainan,China,168.0,6.0,
+3/24/20,Hebei,China,319.0,6.0,
+3/24/20,Heilongjiang,China,484.0,13.0,
+3/24/20,Henan,China,1274.0,22.0,
+3/24/20,Hong Kong,China,386.0,4.0,
+3/24/20,Hubei,China,67801.0,3160.0,
+3/24/20,Hunan,China,1018.0,4.0,
+3/24/20,Inner Mongolia,China,75.0,1.0,
+3/24/20,Jiangsu,China,636.0,0.0,
+3/24/20,Jiangxi,China,936.0,1.0,
+3/24/20,Jilin,China,93.0,1.0,
+3/24/20,Liaoning,China,127.0,2.0,
+3/24/20,Macau,China,25.0,0.0,
+3/24/20,Ningxia,China,75.0,0.0,
+3/24/20,Qinghai,China,18.0,0.0,
+3/24/20,Shaanxi,China,249.0,3.0,
+3/24/20,Shandong,China,768.0,7.0,
+3/24/20,Shanghai,China,414.0,4.0,
+3/24/20,Shanxi,China,134.0,0.0,
+3/24/20,Sichuan,China,545.0,3.0,
+3/24/20,Tianjin,China,145.0,3.0,
+3/24/20,Tibet,China,1.0,0.0,
+3/24/20,Xinjiang,China,76.0,3.0,
+3/24/20,Yunnan,China,176.0,2.0,
+3/24/20,Zhejiang,China,1240.0,1.0,
+3/24/20,,Colombia,378.0,3.0,
+3/24/20,,Congo (Brazzaville),4.0,0.0,
+3/24/20,,Congo (Kinshasa),45.0,2.0,
+3/24/20,,Costa Rica,177.0,2.0,
+3/24/20,,Cote d'Ivoire,73.0,0.0,
+3/24/20,,Croatia,382.0,1.0,
+3/24/20,,Diamond Princess,712.0,10.0,
+3/24/20,,Cuba,48.0,1.0,
+3/24/20,,Cyprus,124.0,3.0,
+3/24/20,,Czechia,1394.0,3.0,
+3/24/20,Faroe Islands,Denmark,122.0,0.0,
+3/24/20,Greenland,Denmark,5.0,0.0,
+3/24/20,,Denmark,1591.0,32.0,
+3/24/20,,Djibouti,3.0,0.0,
+3/24/20,,Dominican Republic,312.0,6.0,
+3/24/20,,Ecuador,1082.0,27.0,
+3/24/20,,Egypt,402.0,20.0,
+3/24/20,,El Salvador,5.0,0.0,
+3/24/20,,Equatorial Guinea,9.0,0.0,
+3/24/20,,Eritrea,1.0,0.0,
+3/24/20,,Estonia,369.0,0.0,
+3/24/20,,Eswatini,4.0,0.0,
+3/24/20,,Ethiopia,12.0,0.0,
+3/24/20,,Fiji,4.0,0.0,
+3/24/20,,Finland,792.0,1.0,
+3/24/20,French Guiana,France,23.0,0.0,
+3/24/20,French Polynesia,France,25.0,0.0,
+3/24/20,Guadeloupe,France,62.0,1.0,
+3/24/20,Mayotte,France,36.0,0.0,
+3/24/20,New Caledonia,France,10.0,0.0,
+3/24/20,Reunion,France,94.0,0.0,
+3/24/20,Saint Barthelemy,France,3.0,0.0,
+3/24/20,St Martin,France,8.0,0.0,
+3/24/20,Martinique,France,57.0,1.0,
+3/24/20,,France,22304.0,1100.0,
+3/24/20,,Gabon,6.0,1.0,
+3/24/20,,Gambia,3.0,1.0,
+3/24/20,,Georgia,70.0,0.0,
+3/24/20,,Germany,32986.0,157.0,
+3/24/20,,Ghana,53.0,2.0,
+3/24/20,,Greece,743.0,20.0,
+3/24/20,,Guatemala,21.0,1.0,
+3/24/20,,Guinea,4.0,0.0,
+3/24/20,,Guyana,5.0,1.0,
+3/24/20,,Haiti,7.0,0.0,
+3/24/20,,Holy See,4.0,0.0,
+3/24/20,,Honduras,30.0,0.0,
+3/24/20,,Hungary,187.0,9.0,
+3/24/20,,Iceland,648.0,2.0,
+3/24/20,,India,536.0,10.0,
+3/24/20,,Indonesia,686.0,55.0,
+3/24/20,,Iran,24811.0,1934.0,
+3/24/20,,Iraq,316.0,27.0,
+3/24/20,,Ireland,1329.0,7.0,
+3/24/20,,Israel,1930.0,3.0,
+3/24/20,,Italy,69176.0,6820.0,
+3/24/20,,Jamaica,21.0,1.0,
+3/24/20,,Japan,1193.0,43.0,
+3/24/20,,Jordan,154.0,0.0,
+3/24/20,,Kazakhstan,72.0,0.0,
+3/24/20,,Kenya,25.0,0.0,
+3/24/20,,"Korea, South",9037.0,120.0,
+3/24/20,,Kuwait,191.0,0.0,
+3/24/20,,Kyrgyzstan,42.0,0.0,
+3/24/20,,Latvia,197.0,0.0,
+3/24/20,,Lebanon,318.0,4.0,
+3/24/20,,Liberia,3.0,0.0,
+3/24/20,,Liechtenstein,51.0,0.0,
+3/24/20,,Lithuania,209.0,2.0,
+3/24/20,,Luxembourg,1099.0,8.0,
+3/24/20,,Madagascar,17.0,0.0,
+3/24/20,,Malaysia,1624.0,16.0,
+3/24/20,,Maldives,13.0,0.0,
+3/24/20,,Malta,110.0,0.0,
+3/24/20,,Mauritania,2.0,0.0,
+3/24/20,,Mauritius,42.0,2.0,
+3/24/20,,Mexico,367.0,4.0,
+3/24/20,,Moldova,125.0,1.0,
+3/24/20,,Monaco,23.0,0.0,
+3/24/20,,Mongolia,10.0,0.0,
+3/24/20,,Montenegro,47.0,1.0,
+3/24/20,,Morocco,170.0,5.0,
+3/24/20,,Namibia,7.0,0.0,
+3/24/20,,Nepal,2.0,0.0,
+3/24/20,Aruba,Netherlands,12.0,0.0,
+3/24/20,Curacao,Netherlands,6.0,1.0,
+3/24/20,Sint Maarten,Netherlands,2.0,0.0,
+3/24/20,,Netherlands,5560.0,276.0,
+3/24/20,,New Zealand,155.0,0.0,
+3/24/20,,Nicaragua,2.0,0.0,
+3/24/20,,Niger,3.0,0.0,
+3/24/20,,Nigeria,44.0,1.0,
+3/24/20,,North Macedonia,148.0,2.0,
+3/24/20,,Norway,2863.0,12.0,
+3/24/20,,Oman,84.0,0.0,
+3/24/20,,Pakistan,972.0,7.0,
+3/24/20,,Panama,345.0,6.0,
+3/24/20,,Papua New Guinea,1.0,0.0,
+3/24/20,,Paraguay,27.0,2.0,
+3/24/20,,Peru,416.0,7.0,
+3/24/20,,Philippines,552.0,35.0,
+3/24/20,,Poland,901.0,10.0,
+3/24/20,,Portugal,2362.0,33.0,
+3/24/20,,Qatar,526.0,0.0,
+3/24/20,,Romania,794.0,11.0,
+3/24/20,,Russia,495.0,1.0,
+3/24/20,,Rwanda,40.0,0.0,
+3/24/20,,Saint Lucia,3.0,0.0,
+3/24/20,,Saint Vincent and the Grenadines,1.0,0.0,
+3/24/20,,San Marino,187.0,21.0,
+3/24/20,,Saudi Arabia,767.0,1.0,
+3/24/20,,Senegal,86.0,0.0,
+3/24/20,,Serbia,303.0,3.0,
+3/24/20,,Seychelles,7.0,0.0,
+3/24/20,,Singapore,558.0,2.0,
+3/24/20,,Slovakia,204.0,0.0,
+3/24/20,,Slovenia,480.0,4.0,
+3/24/20,,Somalia,1.0,0.0,
+3/24/20,,South Africa,554.0,0.0,
+3/24/20,,Spain,39885.0,2808.0,
+3/24/20,,Sri Lanka,102.0,0.0,
+3/24/20,,Sudan,3.0,1.0,
+3/24/20,,Suriname,7.0,0.0,
+3/24/20,,Sweden,2286.0,36.0,
+3/24/20,,Switzerland,9877.0,122.0,
+3/24/20,,Taiwan*,215.0,2.0,
+3/24/20,,Tanzania,12.0,0.0,
+3/24/20,,Thailand,827.0,4.0,
+3/24/20,,Togo,20.0,0.0,
+3/24/20,,Trinidad and Tobago,57.0,0.0,
+3/24/20,,Tunisia,114.0,4.0,
+3/24/20,,Turkey,1872.0,44.0,
+3/24/20,,Uganda,9.0,0.0,
+3/24/20,,Ukraine,97.0,3.0,
+3/24/20,,United Arab Emirates,248.0,2.0,
+3/24/20,Bermuda,United Kingdom,6.0,0.0,
+3/24/20,Cayman Islands,United Kingdom,6.0,1.0,
+3/24/20,Channel Islands,United Kingdom,36.0,0.0,
+3/24/20,Gibraltar,United Kingdom,15.0,0.0,
+3/24/20,Isle of Man,United Kingdom,23.0,0.0,
+3/24/20,Montserrat,United Kingdom,1.0,0.0,
+3/24/20,,United Kingdom,8077.0,422.0,
+3/24/20,,Uruguay,162.0,0.0,
+3/24/20,,US,53740.0,706.0,
+3/24/20,,Uzbekistan,50.0,0.0,
+3/24/20,,Venezuela,84.0,0.0,
+3/24/20,,Vietnam,134.0,0.0,
+3/24/20,,Zambia,3.0,0.0,
+3/24/20,,Zimbabwe,3.0,1.0,
+3/24/20,Diamond Princess,Canada,0.0,1.0,
+3/24/20,,Dominica,2.0,0.0,
+3/24/20,,Grenada,1.0,0.0,
+3/24/20,,Mozambique,3.0,0.0,
+3/24/20,,Syria,1.0,0.0,
+3/24/20,,Timor-Leste,1.0,0.0,
+3/24/20,,Belize,1.0,0.0,
+3/24/20,,Laos,2.0,0.0,
+3/24/20,,Libya,1.0,0.0,
