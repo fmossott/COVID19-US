@@ -21,11 +21,11 @@ cFile="time_series_covid19_confirmed_global.csv"
 dFile="time_series_covid19_deaths_global.csv"
 #cFile="time_series_19-covid-Confirmed.csv"
 #dFile="time_series_19-covid-Deaths.csv"
-rFile="time_series_19-covid-Recovered.csv"
+#rFile="time_series_19-covid-Recovered.csv"
 
 cDF = pd.read_csv(srcdir+cFile)
 dDF = pd.read_csv(srcdir+dFile)
-rDF = pd.read_csv(srcdir+rFile)
+#rDF = pd.read_csv(srcdir+rFile)
 
 # %%
 dates=cDF.columns[4:]
@@ -38,11 +38,11 @@ def dayData(d):
     day_dDF = dDF[['Province/State','Country/Region',d]].rename(columns={d: "Deaths"})
     dayDF = pd.merge(day_cDF, day_dDF, on=['Province/State','Country/Region'], how="outer")
 
-    if d in rDF.columns:
-        day_rDF = rDF[['Province/State','Country/Region',d]].rename(columns={d: "Recovered"})
-        dayDF = pd.merge(dayDF, day_rDF, on=['Province/State','Country/Region'], how="outer")
-    else:
-        dayDF['Recovered']=np.nan
+#    if d in rDF.columns:
+#        day_rDF = rDF[['Province/State','Country/Region',d]].rename(columns={d: "Recovered"})
+#        dayDF = pd.merge(dayDF, day_rDF, on=['Province/State','Country/Region'], how="outer")
+#    else:
+    dayDF['Recovered']=np.nan
 
     dayDF.insert(0,'Date',d)
 
