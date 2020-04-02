@@ -5714,3 +5714,83 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-31,United Kingdom,Isle of Man,60.0,0.0,0.0,60.0
 2020-03-31,United Kingdom,Montserrat,5.0,0.0,0.0,5.0
 2020-03-31,United Kingdom,Turks and Caicos Islands,5.0,0.0,0.0,5.0
+2020-04-01,Australia,Australian Capital Territory,84.0,1.0,8.0,75.0
+2020-04-01,Australia,New South Wales,2182.0,9.0,4.0,2169.0
+2020-04-01,Australia,Northern Territory,19.0,0.0,0.0,19.0
+2020-04-01,Australia,Queensland,781.0,2.0,8.0,771.0
+2020-04-01,Australia,South Australia,367.0,0.0,6.0,361.0
+2020-04-01,Australia,Tasmania,69.0,2.0,5.0,62.0
+2020-04-01,Australia,Victoria,968.0,4.0,343.0,621.0
+2020-04-01,Australia,Western Australia,392.0,2.0,48.0,342.0
+2020-04-01,Canada,Alberta,754.0,9.0,0.0,0.0
+2020-04-01,Canada,British Columbia,1013.0,24.0,0.0,0.0
+2020-04-01,Canada,Diamond Princess,0.0,1.0,0.0,0.0
+2020-04-01,Canada,Grand Princess,13.0,0.0,0.0,0.0
+2020-04-01,Canada,Manitoba,127.0,1.0,0.0,0.0
+2020-04-01,Canada,New Brunswick,81.0,0.0,0.0,0.0
+2020-04-01,Canada,Newfoundland and Labrador,175.0,1.0,0.0,0.0
+2020-04-01,Canada,Northwest Territories,2.0,0.0,0.0,0.0
+2020-04-01,Canada,Nova Scotia,173.0,0.0,0.0,0.0
+2020-04-01,Canada,Ontario,2392.0,37.0,0.0,0.0
+2020-04-01,Canada,Prince Edward Island,21.0,0.0,0.0,0.0
+2020-04-01,Canada,Quebec,4611.0,33.0,0.0,0.0
+2020-04-01,Canada,Recovered,0.0,0.0,1324.0,0.0
+2020-04-01,Canada,Saskatchewan,193.0,3.0,0.0,0.0
+2020-04-01,Canada,Yukon,5.0,0.0,0.0,0.0
+2020-04-01,China,Anhui,990.0,6.0,984.0,0.0
+2020-04-01,China,Beijing,580.0,8.0,418.0,154.0
+2020-04-01,China,Chongqing,579.0,6.0,570.0,3.0
+2020-04-01,China,Fujian,345.0,1.0,298.0,46.0
+2020-04-01,China,Gansu,138.0,2.0,127.0,9.0
+2020-04-01,China,Guangdong,1501.0,8.0,1357.0,136.0
+2020-04-01,China,Guangxi,254.0,2.0,250.0,2.0
+2020-04-01,China,Guizhou,146.0,2.0,144.0,0.0
+2020-04-01,China,Hainan,168.0,6.0,168.0,-6.0
+2020-04-01,China,Hebei,323.0,6.0,310.0,7.0
+2020-04-01,China,Heilongjiang,484.0,13.0,469.0,2.0
+2020-04-01,China,Henan,1276.0,22.0,1251.0,3.0
+2020-04-01,China,Hong Kong,765.0,4.0,147.0,614.0
+2020-04-01,China,Hubei,67802.0,3193.0,63326.0,1283.0
+2020-04-01,China,Hunan,1018.0,4.0,1014.0,0.0
+2020-04-01,China,Inner Mongolia,111.0,1.0,74.0,36.0
+2020-04-01,China,Jiangsu,646.0,0.0,631.0,15.0
+2020-04-01,China,Jiangxi,937.0,1.0,935.0,1.0
+2020-04-01,China,Jilin,98.0,1.0,92.0,5.0
+2020-04-01,China,Liaoning,140.0,2.0,124.0,14.0
+2020-04-01,China,Macau,41.0,0.0,10.0,31.0
+2020-04-01,China,Ningxia,75.0,0.0,75.0,0.0
+2020-04-01,China,Qinghai,18.0,0.0,18.0,0.0
+2020-04-01,China,Shaanxi,255.0,3.0,242.0,10.0
+2020-04-01,China,Shandong,774.0,7.0,753.0,14.0
+2020-04-01,China,Shanghai,516.0,6.0,341.0,169.0
+2020-04-01,China,Shanxi,137.0,0.0,133.0,4.0
+2020-04-01,China,Sichuan,552.0,3.0,537.0,12.0
+2020-04-01,China,Tianjin,176.0,3.0,135.0,38.0
+2020-04-01,China,Tibet,1.0,0.0,1.0,0.0
+2020-04-01,China,Xinjiang,76.0,3.0,73.0,0.0
+2020-04-01,China,Yunnan,182.0,2.0,172.0,8.0
+2020-04-01,China,Zhejiang,1257.0,1.0,1226.0,30.0
+2020-04-01,Denmark,Faroe Islands,173.0,0.0,75.0,98.0
+2020-04-01,Denmark,Greenland,10.0,0.0,2.0,8.0
+2020-04-01,France,French Guiana,51.0,0.0,15.0,36.0
+2020-04-01,France,French Polynesia,37.0,0.0,0.0,37.0
+2020-04-01,France,Guadeloupe,125.0,6.0,24.0,95.0
+2020-04-01,France,Martinique,135.0,3.0,27.0,105.0
+2020-04-01,France,Mayotte,101.0,1.0,10.0,90.0
+2020-04-01,France,New Caledonia,16.0,0.0,0.0,16.0
+2020-04-01,France,Reunion,281.0,0.0,40.0,241.0
+2020-04-01,France,Saint Barthelemy,6.0,0.0,1.0,5.0
+2020-04-01,France,St Martin,15.0,1.0,2.0,12.0
+2020-04-01,Netherlands,Aruba,55.0,0.0,1.0,54.0
+2020-04-01,Netherlands,Curacao,11.0,1.0,3.0,7.0
+2020-04-01,Netherlands,Sint Maarten,16.0,1.0,6.0,9.0
+2020-04-01,US,Recovered,0.0,0.0,8536.0,0.0
+2020-04-01,United Kingdom,Anguilla,2.0,0.0,0.0,2.0
+2020-04-01,United Kingdom,Bermuda,32.0,0.0,10.0,22.0
+2020-04-01,United Kingdom,British Virgin Islands,3.0,0.0,0.0,3.0
+2020-04-01,United Kingdom,Cayman Islands,22.0,1.0,0.0,21.0
+2020-04-01,United Kingdom,Channel Islands,172.0,3.0,0.0,169.0
+2020-04-01,United Kingdom,Gibraltar,81.0,0.0,34.0,47.0
+2020-04-01,United Kingdom,Isle of Man,68.0,1.0,0.0,67.0
+2020-04-01,United Kingdom,Montserrat,5.0,0.0,0.0,5.0
+2020-04-01,United Kingdom,Turks and Caicos Islands,6.0,0.0,0.0,6.0
