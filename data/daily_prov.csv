@@ -4302,7 +4302,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-21,US,Connecticut,194.0,4.0,0.0,0.0
 2020-03-21,US,Delaware,45.0,0.0,0.0,0.0
 2020-03-21,US,Diamond Princess,49.0,0.0,0.0,0.0
-2020-03-21,US,District of Columbia,77.0,1.0,0.0,0.0
+2020-03-21,US,District of Columbia,98.0,1.0,0.0,0.0
 2020-03-21,US,Florida,659.0,13.0,0.0,0.0
 2020-03-21,US,Georgia,507.0,14.0,0.0,0.0
 2020-03-21,US,Grand Princess,23.0,0.0,0.0,0.0
@@ -4438,7 +4438,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-22,US,Connecticut,327.0,8.0,0.0,0.0
 2020-03-22,US,Delaware,56.0,0.0,0.0,0.0
 2020-03-22,US,Diamond Princess,49.0,0.0,0.0,0.0
-2020-03-22,US,District of Columbia,102.0,2.0,0.0,0.0
+2020-03-22,US,District of Columbia,204.0,2.0,0.0,0.0
 2020-03-22,US,Florida,1004.0,13.0,0.0,0.0
 2020-03-22,US,Georgia,621.0,25.0,0.0,0.0
 2020-03-22,US,Grand Princess,30.0,1.0,0.0,0.0
@@ -5424,7 +5424,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-29,US,Texas,2792.0,37.0,0.0,0.0
 2020-03-29,US,Utah,720.0,2.0,0.0,0.0
 2020-03-29,US,Vermont,235.0,12.0,0.0,0.0
-2020-03-29,US,Virgin Islands,0.0,0.0,0.0,0.0
+2020-03-29,US,Virgin Islands,23.0,0.0,0.0,0.0
 2020-03-29,US,Virginia,890.0,20.0,0.0,0.0
 2020-03-29,US,Washington,4465.0,198.0,0.0,0.0
 2020-03-29,US,West Virginia,113.0,0.0,0.0,0.0
@@ -5562,7 +5562,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-30,US,Texas,3147.0,45.0,0.0,0.0
 2020-03-30,US,Utah,804.0,4.0,0.0,0.0
 2020-03-30,US,Vermont,256.0,12.0,0.0,0.0
-2020-03-30,US,Virgin Islands,0.0,0.0,0.0,0.0
+2020-03-30,US,Virgin Islands,30.0,0.0,0.0,0.0
 2020-03-30,US,Virginia,1020.0,15.0,0.0,0.0
 2020-03-30,US,Washington,4923.0,205.0,0.0,0.0
 2020-03-30,US,West Virginia,145.0,1.0,0.0,0.0
