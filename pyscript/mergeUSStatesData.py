@@ -27,6 +27,8 @@ else:
 
 # %%
 tests = pd.read_csv('https://covidtracking.com/api/v1/states/daily.csv')
+tests.to_csv(home+'data/tests_raw.csv', index=False)
+
 
 tests['Date'] = pd.to_datetime(tests['date'],format='%Y%m%d')
 
