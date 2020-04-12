@@ -10,6 +10,6 @@ Project to integrate and elaborate COVID-19 data, based on data by:
 
 ## DataStudio
 
-These data is used for these COVID-19 Dashboards:
+These data are used for these COVID-19 Dashboards:
 - Worldwide: http://bit.ly/covid19ww
 - USA: http://bit.ly/covid19us
