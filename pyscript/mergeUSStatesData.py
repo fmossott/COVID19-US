@@ -26,6 +26,20 @@ else:
     args = parser.parse_args()
 
 # %%
+tests = pd.read_csv('https://covidtracking.com/api/v1/states/daily.csv')
+
+tests['Date'] = pd.to_datetime(tests['date'],format='%Y%m%d')
+
+# %%
+tests = tests[['Date','state','positive','negative','pending','total']].\
+    astype({'positive':'Int32', 'negative': 'Int32', 'pending': 'Int32', 'total': 'Int32'}).\
+    rename(columns={'state': 'abbr.', 'positive': 'Tests Positive', 'negative': 'Tests Negative', 'pending': 'Tests Pending', 'total': 'Tests'})
+
+# %%
+prevtests = tests.rename(columns={'Tests Positive':'Prev Tests Positive', 'Tests Negative': 'Prev Tests Negative', 'Tests Pending': 'Prev Tests Pending', 'Tests': 'Prev Tests'})
+prevtests['Date'] = prevtests['Date']+pd.to_timedelta(1,unit='D')
+
+# %%
 files=glob.glob(args.src + "/*.csv")
 files.sort()
 
@@ -83,7 +97,9 @@ prev2['Date'] = prev2['Date']+pd.to_timedelta(2,unit='D')
 # %%
 merge=df.merge(prev, on=['Date','Country/Region','Province/State'], how="left")\
     .merge(prev2, on=['Date','Country/Region','Province/State'], how="left")\
-    .merge(regdata, on=['Country/Region','Province/State'], how='left')
+    .merge(regdata, on=['Country/Region','Province/State'], how='left')\
+    .merge(tests, on=['Date','abbr.'], how='left')\
+    .merge(prevtests, on=['Date','abbr.'], how='left')
 
 # %%
 merge['Daily Confirmed'] = merge['Confirmed']-merge['Previous Confirmed']
@@ -92,6 +108,12 @@ merge['Daily Recovered'] = merge['Recovered']-merge['Previous Recovered']
 merge['Daily Active'] = merge['Active Cases']-merge['Previous Active']
 merge['Previous Daily Confirmed'] = merge['Previous Confirmed']-merge['Prev2 Confirmed']
 merge = merge.drop(columns=['Active'])
+
+# %%
+merge['Daily Tests Positive'] = merge['Tests Positive'] - merge['Prev Tests Positive']
+merge['Daily Tests Negative'] = merge['Tests Negative'] - merge['Prev Tests Negative']
+merge['Daily Tests Pending'] = merge['Tests Pending'] - merge['Prev Tests Pending']
+merge['Daily Tests'] = merge['Tests'] - merge['Prev Tests']
 
 # %%
 merge.sort_values(by=['Date','Country/Region','Province/State'])
