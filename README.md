@@ -10,4 +10,6 @@ Project to integrate and elaborate COVID-19 data, based on data by:
 
 ## DataStudio
 
-These data are imported on the spreadsheet at http://bit.ly/CoronaVirusItalia and then used as source for the charts on http://bit.ly/covid19it
+These data is used for these COVID-19 Dashboards:
+- Worldwide: http://bit.ly/covid19ww
+- USA: http://bit.ly/covid19us
