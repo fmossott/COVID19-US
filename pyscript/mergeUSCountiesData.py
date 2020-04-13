@@ -94,13 +94,18 @@ merge['Previous Daily Confirmed'] = merge['Previous Confirmed']-merge['Prev2 Con
 merge = merge.drop(columns=['Active'])
 
 # %%
-merge.sort_values(by=['Date','Country/Region','Province/State','Admin2'])
+merge = merge.sort_values(by=['Date','Country/Region','Province/State','Admin2'])
 
 # %%
-merge.to_csv(home+'data/uscounties_ts.csv', index=False)
+maxDate = merge['Date'].max();
+minDate = maxDate - pd.to_timedelta(15,unit='D');
 
 # %%
-lastDF = merge.loc[merge['Date'] == merge['Date'].max()]
+lastWeeks = merge.loc[merge['Date'] >= minDate]
+lastWeeks.to_csv(home+'data/uscounties_ts.csv', index=False)
+
+# %%
+lastDF = merge.loc[merge['Date'] == maxDate]
 
 
 # %%
