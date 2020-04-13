@@ -4655,7 +4655,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-24,China,Guangdong,1428.0,8.0,1333.0,87.0
 2020-03-24,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-24,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-24,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-24,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-24,China,Hebei,319.0,6.0,310.0,3.0
 2020-03-24,China,Heilongjiang,484.0,13.0,468.0,3.0
 2020-03-24,China,Henan,1274.0,22.0,1250.0,2.0
@@ -4789,7 +4789,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-25,China,Guangdong,1433.0,8.0,1336.0,89.0
 2020-03-25,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-25,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-25,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-25,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-25,China,Hebei,319.0,6.0,310.0,3.0
 2020-03-25,China,Heilongjiang,484.0,13.0,468.0,3.0
 2020-03-25,China,Henan,1274.0,22.0,1250.0,2.0
@@ -4924,7 +4924,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-26,China,Guangdong,1448.0,8.0,1336.0,104.0
 2020-03-26,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-26,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-26,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-26,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-26,China,Hebei,319.0,6.0,310.0,3.0
 2020-03-26,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-03-26,China,Henan,1275.0,22.0,1250.0,3.0
@@ -5059,7 +5059,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-27,China,Guangdong,1456.0,8.0,1337.0,111.0
 2020-03-27,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-27,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-27,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-27,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-27,China,Hebei,319.0,6.0,310.0,3.0
 2020-03-27,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-03-27,China,Henan,1275.0,22.0,1250.0,3.0
@@ -5194,7 +5194,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-28,China,Guangdong,1467.0,8.0,1341.0,118.0
 2020-03-28,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-28,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-28,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-28,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-28,China,Hebei,319.0,6.0,310.0,3.0
 2020-03-28,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-03-28,China,Henan,1275.0,22.0,1251.0,2.0
@@ -5332,7 +5332,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-29,China,Guangdong,1475.0,8.0,1349.0,118.0
 2020-03-29,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-29,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-29,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-29,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-29,China,Hebei,319.0,6.0,310.0,3.0
 2020-03-29,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-03-29,China,Henan,1276.0,22.0,1251.0,3.0
@@ -5470,7 +5470,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-30,China,Guangdong,1484.0,8.0,1351.0,125.0
 2020-03-30,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-30,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-30,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-30,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-30,China,Hebei,321.0,6.0,310.0,5.0
 2020-03-30,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-03-30,China,Henan,1276.0,22.0,1251.0,3.0
@@ -5608,7 +5608,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-03-31,China,Guangdong,1494.0,8.0,1356.0,130.0
 2020-03-31,China,Guangxi,254.0,2.0,250.0,2.0
 2020-03-31,China,Guizhou,146.0,2.0,144.0,0.0
-2020-03-31,China,Hainan,168.0,6.0,168.0,-6.0
+2020-03-31,China,Hainan,168.0,6.0,162.0,0.0
 2020-03-31,China,Hebei,321.0,6.0,310.0,5.0
 2020-03-31,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-03-31,China,Henan,1276.0,22.0,1251.0,3.0
@@ -5745,7 +5745,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-04-01,China,Guangdong,1501.0,8.0,1357.0,136.0
 2020-04-01,China,Guangxi,254.0,2.0,250.0,2.0
 2020-04-01,China,Guizhou,146.0,2.0,144.0,0.0
-2020-04-01,China,Hainan,168.0,6.0,168.0,-6.0
+2020-04-01,China,Hainan,168.0,6.0,162.0,0.0
 2020-04-01,China,Hebei,323.0,6.0,310.0,7.0
 2020-04-01,China,Heilongjiang,484.0,13.0,469.0,2.0
 2020-04-01,China,Henan,1276.0,22.0,1251.0,3.0
