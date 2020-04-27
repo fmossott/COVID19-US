@@ -8782,7 +8782,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-04-23,Australia,Western Australia,546.0,7.0,340.0,199.0
 2020-04-23,Canada,Alberta,3720.0,68.0,0.0,3652.0
 2020-04-23,Canada,British Columbia,1824.0,94.0,0.0,1730.0
-2020-04-23,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
+2020-04-23,Canada,Diamond Princess,0.0,1.0,0.0,0.0
 2020-04-23,Canada,Manitoba,262.0,6.0,0.0,256.0
 2020-04-23,Canada,New Brunswick,118.0,0.0,0.0,118.0
 2020-04-23,Canada,Newfoundland and Labrador,256.0,3.0,0.0,253.0
@@ -8921,7 +8921,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-04-24,Australia,Western Australia,548.0,8.0,340.0,200.0
 2020-04-24,Canada,Alberta,4017.0,72.0,0.0,3945.0
 2020-04-24,Canada,British Columbia,1853.0,98.0,0.0,1755.0
-2020-04-24,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
+2020-04-24,Canada,Diamond Princess,0.0,1.0,0.0,0.0
 2020-04-24,Canada,Manitoba,263.0,6.0,0.0,257.0
 2020-04-24,Canada,New Brunswick,118.0,0.0,0.0,118.0
 2020-04-24,Canada,Newfoundland and Labrador,256.0,3.0,0.0,253.0
@@ -9059,7 +9059,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-04-25,Australia,Western Australia,549.0,8.0,478.0,63.0
 2020-04-25,Canada,Alberta,4233.0,73.0,0.0,4160.0
 2020-04-25,Canada,British Columbia,1948.0,100.0,0.0,1848.0
-2020-04-25,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
+2020-04-25,Canada,Diamond Princess,0.0,1.0,0.0,0.0
 2020-04-25,Canada,Manitoba,267.0,6.0,0.0,261.0
 2020-04-25,Canada,New Brunswick,118.0,0.0,0.0,118.0
 2020-04-25,Canada,Newfoundland and Labrador,257.0,3.0,0.0,254.0
@@ -9197,7 +9197,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-04-26,Australia,Western Australia,549.0,8.0,486.0,55.0
 2020-04-26,Canada,Alberta,4480.0,73.0,0.0,4407.0
 2020-04-26,Canada,British Columbia,1948.0,100.0,0.0,1848.0
-2020-04-26,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
+2020-04-26,Canada,Diamond Princess,0.0,1.0,0.0,0.0
 2020-04-26,Canada,Manitoba,271.0,6.0,0.0,265.0
 2020-04-26,Canada,New Brunswick,118.0,0.0,0.0,118.0
 2020-04-26,Canada,Newfoundland and Labrador,258.0,3.0,0.0,255.0
