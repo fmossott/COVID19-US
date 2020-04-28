@@ -9325,3 +9325,143 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-04-26,United Kingdom,Isle of Man,308.0,18.0,247.0,43.0
 2020-04-26,United Kingdom,Montserrat,11.0,1.0,2.0,8.0
 2020-04-26,United Kingdom,Turks and Caicos Islands,11.0,1.0,4.0,6.0
+2020-04-27,Australia,Australian Capital Territory,106.0,3.0,100.0,3.0
+2020-04-27,Australia,New South Wales,3004.0,34.0,2227.0,743.0
+2020-04-27,Australia,Northern Territory,28.0,0.0,23.0,5.0
+2020-04-27,Australia,Queensland,1033.0,6.0,926.0,101.0
+2020-04-27,Australia,South Australia,438.0,4.0,414.0,20.0
+2020-04-27,Australia,Tasmania,214.0,11.0,132.0,71.0
+2020-04-27,Australia,Victoria,1349.0,17.0,1280.0,52.0
+2020-04-27,Australia,Western Australia,549.0,8.0,486.0,55.0
+2020-04-27,Canada,Alberta,4696.0,75.0,0.0,4621.0
+2020-04-27,Canada,British Columbia,1998.0,104.0,0.0,1894.0
+2020-04-27,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
+2020-04-27,Canada,Grand Princess,13.0,0.0,0.0,13.0
+2020-04-27,Canada,Manitoba,273.0,6.0,0.0,267.0
+2020-04-27,Canada,New Brunswick,118.0,0.0,0.0,118.0
+2020-04-27,Canada,Newfoundland and Labrador,258.0,3.0,0.0,255.0
+2020-04-27,Canada,Northwest Territories,5.0,0.0,0.0,5.0
+2020-04-27,Canada,Nova Scotia,900.0,24.0,0.0,876.0
+2020-04-27,Canada,Ontario,15970.0,1023.0,0.0,14947.0
+2020-04-27,Canada,Prince Edward Island,26.0,0.0,0.0,26.0
+2020-04-27,Canada,Quebec,24983.0,1600.0,0.0,23383.0
+2020-04-27,Canada,Recovered,0.0,0.0,18268.0,-18268.0
+2020-04-27,Canada,Saskatchewan,365.0,5.0,0.0,360.0
+2020-04-27,Canada,Yukon,11.0,0.0,0.0,11.0
+2020-04-27,China,Anhui,991.0,6.0,985.0,0.0
+2020-04-27,China,Beijing,593.0,9.0,536.0,48.0
+2020-04-27,China,Chongqing,579.0,6.0,573.0,0.0
+2020-04-27,China,Fujian,355.0,1.0,349.0,5.0
+2020-04-27,China,Gansu,139.0,2.0,137.0,0.0
+2020-04-27,China,Guangdong,1587.0,8.0,1547.0,32.0
+2020-04-27,China,Guangxi,254.0,2.0,252.0,0.0
+2020-04-27,China,Guizhou,147.0,2.0,145.0,0.0
+2020-04-27,China,Hainan,168.0,6.0,162.0,0.0
+2020-04-27,China,Hebei,328.0,6.0,318.0,4.0
+2020-04-27,China,Heilongjiang,939.0,13.0,586.0,340.0
+2020-04-27,China,Henan,1276.0,22.0,1254.0,0.0
+2020-04-27,China,Hong Kong,1037.0,4.0,787.0,246.0
+2020-04-27,China,Hubei,68128.0,4512.0,63616.0,0.0
+2020-04-27,China,Hunan,1019.0,4.0,1015.0,0.0
+2020-04-27,China,Inner Mongolia,199.0,1.0,145.0,53.0
+2020-04-27,China,Jiangsu,653.0,0.0,646.0,7.0
+2020-04-27,China,Jiangxi,937.0,1.0,936.0,0.0
+2020-04-27,China,Jilin,110.0,1.0,99.0,10.0
+2020-04-27,China,Liaoning,146.0,2.0,143.0,1.0
+2020-04-27,China,Macau,45.0,0.0,32.0,13.0
+2020-04-27,China,Ningxia,75.0,0.0,75.0,0.0
+2020-04-27,China,Qinghai,18.0,0.0,18.0,0.0
+2020-04-27,China,Shaanxi,286.0,3.0,253.0,30.0
+2020-04-27,China,Shandong,787.0,7.0,768.0,12.0
+2020-04-27,China,Shanghai,644.0,7.0,581.0,56.0
+2020-04-27,China,Shanxi,197.0,0.0,160.0,37.0
+2020-04-27,China,Sichuan,561.0,3.0,558.0,0.0
+2020-04-27,China,Tianjin,190.0,3.0,182.0,5.0
+2020-04-27,China,Tibet,1.0,0.0,1.0,0.0
+2020-04-27,China,Xinjiang,76.0,3.0,73.0,0.0
+2020-04-27,China,Yunnan,185.0,2.0,181.0,2.0
+2020-04-27,China,Zhejiang,1268.0,1.0,1261.0,6.0
+2020-04-27,Denmark,Faroe Islands,187.0,0.0,178.0,9.0
+2020-04-27,Denmark,Greenland,11.0,0.0,11.0,0.0
+2020-04-27,France,French Guiana,111.0,1.0,87.0,23.0
+2020-04-27,France,French Polynesia,57.0,0.0,43.0,14.0
+2020-04-27,France,Guadeloupe,149.0,12.0,82.0,55.0
+2020-04-27,France,Martinique,175.0,14.0,77.0,84.0
+2020-04-27,France,Mayotte,401.0,4.0,144.0,253.0
+2020-04-27,France,New Caledonia,18.0,0.0,17.0,1.0
+2020-04-27,France,Reunion,418.0,0.0,300.0,118.0
+2020-04-27,France,Saint Barthelemy,6.0,0.0,6.0,0.0
+2020-04-27,France,Saint Pierre and Miquelon,1.0,0.0,0.0,1.0
+2020-04-27,France,St Martin,38.0,3.0,24.0,11.0
+2020-04-27,Netherlands,Aruba,100.0,2.0,73.0,25.0
+2020-04-27,Netherlands,"Bonaire, Sint Eustatius and Saba",5.0,0.0,0.0,5.0
+2020-04-27,Netherlands,Curacao,16.0,1.0,11.0,4.0
+2020-04-27,Netherlands,Sint Maarten,74.0,13.0,33.0,28.0
+2020-04-27,US,Alabama,6539.0,228.0,0.0,6311.0
+2020-04-27,US,Alaska,345.0,9.0,0.0,336.0
+2020-04-27,US,Arizona,6725.0,275.0,0.0,6450.0
+2020-04-27,US,Arkansas,3069.0,51.0,0.0,3018.0
+2020-04-27,US,California,44966.0,1779.0,0.0,43187.0
+2020-04-27,US,Colorado,13879.0,706.0,0.0,13173.0
+2020-04-27,US,Connecticut,25997.0,2012.0,0.0,23985.0
+2020-04-27,US,Delaware,4162.0,125.0,0.0,4037.0
+2020-04-27,US,Diamond Princess,49.0,0.0,0.0,49.0
+2020-04-27,US,District of Columbia,3892.0,185.0,0.0,3707.0
+2020-04-27,US,Florida,32138.0,1088.0,0.0,31050.0
+2020-04-27,US,Georgia,24302.0,995.0,0.0,23307.0
+2020-04-27,US,Grand Princess,103.0,3.0,0.0,100.0
+2020-04-27,US,Guam,141.0,5.0,0.0,136.0
+2020-04-27,US,Hawaii,607.0,16.0,0.0,591.0
+2020-04-27,US,Idaho,1897.0,56.0,0.0,1841.0
+2020-04-27,US,Illinois,45883.0,1983.0,0.0,43900.0
+2020-04-27,US,Indiana,15961.0,844.0,0.0,15117.0
+2020-04-27,US,Iowa,5868.0,127.0,0.0,5741.0
+2020-04-27,US,Kansas,3473.0,126.0,0.0,3347.0
+2020-04-27,US,Kentucky,4156.0,213.0,0.0,3943.0
+2020-04-27,US,Louisiana,27068.0,1740.0,0.0,25328.0
+2020-04-27,US,Maine,1023.0,51.0,0.0,972.0
+2020-04-27,US,Maryland,19487.0,945.0,0.0,18542.0
+2020-04-27,US,Massachusetts,56462.0,3003.0,0.0,53459.0
+2020-04-27,US,Michigan,38210.0,3407.0,0.0,34803.0
+2020-04-27,US,Minnesota,3811.0,286.0,0.0,3525.0
+2020-04-27,US,Mississippi,6094.0,229.0,0.0,5865.0
+2020-04-27,US,Missouri,7305.0,343.0,0.0,6962.0
+2020-04-27,US,Montana,449.0,14.0,0.0,435.0
+2020-04-27,US,Nebraska,3358.0,56.0,0.0,3302.0
+2020-04-27,US,Nevada,4700.0,206.0,0.0,4494.0
+2020-04-27,US,New Hampshire,1938.0,60.0,0.0,1878.0
+2020-04-27,US,New Jersey,111188.0,6044.0,0.0,105144.0
+2020-04-27,US,New Mexico,2825.0,99.0,0.0,2726.0
+2020-04-27,US,New York,291996.0,22668.0,0.0,269328.0
+2020-04-27,US,North Carolina,9428.0,340.0,0.0,9088.0
+2020-04-27,US,North Dakota,942.0,19.0,0.0,923.0
+2020-04-27,US,Northern Mariana Islands,14.0,2.0,0.0,12.0
+2020-04-27,US,Ohio,16325.0,753.0,0.0,15572.0
+2020-04-27,US,Oklahoma,3281.0,197.0,0.0,3084.0
+2020-04-27,US,Oregon,2354.0,92.0,0.0,2262.0
+2020-04-27,US,Pennsylvania,43558.0,1886.0,0.0,41672.0
+2020-04-27,US,Puerto Rico,1389.0,84.0,0.0,1305.0
+2020-04-27,US,Recovered,0.0,0.0,111424.0,-111424.0
+2020-04-27,US,Rhode Island,7708.0,233.0,0.0,7475.0
+2020-04-27,US,South Carolina,5613.0,177.0,0.0,5436.0
+2020-04-27,US,South Dakota,2244.0,11.0,0.0,2233.0
+2020-04-27,US,Tennessee,9918.0,184.0,0.0,9734.0
+2020-04-27,US,Texas,25321.0,666.0,0.0,24655.0
+2020-04-27,US,Utah,4236.0,41.0,0.0,4195.0
+2020-04-27,US,Vermont,855.0,47.0,0.0,808.0
+2020-04-27,US,Virgin Islands,57.0,4.0,0.0,53.0
+2020-04-27,US,Virginia,13538.0,460.0,0.0,13078.0
+2020-04-27,US,Washington,13686.0,764.0,0.0,12922.0
+2020-04-27,US,West Virginia,1063.0,34.0,0.0,1029.0
+2020-04-27,US,Wisconsin,6081.0,281.0,0.0,5800.0
+2020-04-27,US,Wyoming,520.0,7.0,0.0,513.0
+2020-04-27,United Kingdom,Anguilla,3.0,0.0,3.0,0.0
+2020-04-27,United Kingdom,Bermuda,110.0,6.0,44.0,60.0
+2020-04-27,United Kingdom,British Virgin Islands,6.0,1.0,3.0,2.0
+2020-04-27,United Kingdom,Cayman Islands,70.0,1.0,8.0,61.0
+2020-04-27,United Kingdom,Channel Islands,525.0,35.0,352.0,138.0
+2020-04-27,United Kingdom,Falkland Islands (Malvinas),13.0,0.0,11.0,2.0
+2020-04-27,United Kingdom,Gibraltar,141.0,0.0,131.0,10.0
+2020-04-27,United Kingdom,Isle of Man,308.0,20.0,248.0,40.0
+2020-04-27,United Kingdom,Montserrat,11.0,1.0,2.0,8.0
+2020-04-27,United Kingdom,Turks and Caicos Islands,12.0,1.0,5.0,6.0
