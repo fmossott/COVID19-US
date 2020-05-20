@@ -12813,6 +12813,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-05-19,Spain,Murcia,1558.0,145.0,0.0,1413.0
 2020-05-19,Spain,Navarra,5202.0,503.0,0.0,4699.0
 2020-05-19,Spain,Pais Vasco,13409.0,1470.0,0.0,11939.0
+2020-05-19,Spain,Unknown,0.0,0.0,150376.0,-150376.0
 2020-05-19,US,Alabama,12376.0,504.0,0.0,11872.0
 2020-05-19,US,Alaska,400.0,10.0,0.0,390.0
 2020-05-19,US,Arizona,14576.0,705.0,0.0,13871.0
