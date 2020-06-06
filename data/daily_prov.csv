@@ -18554,3 +18554,514 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-04,United Kingdom,Isle of Man,336.0,24.0,312.0,0.0
 2020-06-04,United Kingdom,Montserrat,11.0,1.0,10.0,0.0
 2020-06-04,United Kingdom,Turks and Caicos Islands,12.0,1.0,11.0,0.0
+2020-06-05,Australia,Australian Capital Territory,107.0,3.0,104.0,0.0
+2020-06-05,Australia,New South Wales,3110.0,48.0,2719.0,343.0
+2020-06-05,Australia,Northern Territory,29.0,0.0,29.0,0.0
+2020-06-05,Australia,Queensland,1061.0,6.0,1049.0,6.0
+2020-06-05,Australia,South Australia,440.0,4.0,436.0,0.0
+2020-06-05,Australia,Tasmania,228.0,13.0,208.0,7.0
+2020-06-05,Australia,Victoria,1681.0,19.0,1586.0,76.0
+2020-06-05,Australia,Western Australia,596.0,9.0,557.0,30.0
+2020-06-05,Brazil,Acre,7021.0,181.0,0.0,6840.0
+2020-06-05,Brazil,Alagoas,13097.0,531.0,0.0,12566.0
+2020-06-05,Brazil,Amapa,11551.0,254.0,0.0,11297.0
+2020-06-05,Brazil,Amazonas,46473.0,2183.0,0.0,44290.0
+2020-06-05,Brazil,Bahia,23463.0,790.0,0.0,22673.0
+2020-06-05,Brazil,Ceara,59795.0,3813.0,0.0,55982.0
+2020-06-05,Brazil,Distrito Federal,12923.0,196.0,0.0,12727.0
+2020-06-05,Brazil,Espirito Santo,16894.0,737.0,0.0,16157.0
+2020-06-05,Brazil,Goias,4944.0,164.0,0.0,4780.0
+2020-06-05,Brazil,Maranhao,40629.0,1062.0,0.0,39567.0
+2020-06-05,Brazil,Mato Grosso,3194.0,82.0,0.0,3112.0
+2020-06-05,Brazil,Mato Grosso do Sul,1925.0,20.0,0.0,1905.0
+2020-06-05,Brazil,Minas Gerais,13034.0,323.0,0.0,12711.0
+2020-06-05,Brazil,Para,48049.0,3416.0,0.0,44633.0
+2020-06-05,Brazil,Paraiba,17579.0,438.0,0.0,17141.0
+2020-06-05,Brazil,Parana,5820.0,215.0,0.0,5605.0
+2020-06-05,Brazil,Pernambuco,37507.0,3134.0,0.0,34373.0
+2020-06-05,Brazil,Piaui,6064.0,202.0,0.0,5862.0
+2020-06-05,Brazil,Rio Grande do Norte,9282.0,378.0,0.0,8904.0
+2020-06-05,Brazil,Rio Grande do Sul,11010.0,265.0,0.0,10745.0
+2020-06-05,Brazil,Rio de Janeiro,60932.0,6327.0,0.0,54605.0
+2020-06-05,Brazil,Rondonia,6459.0,194.0,0.0,6265.0
+2020-06-05,Brazil,Roraima,4483.0,127.0,0.0,4356.0
+2020-06-05,Brazil,Santa Catarina,10532.0,156.0,0.0,10376.0
+2020-06-05,Brazil,Sao Paulo,129200.0,8560.0,0.0,120640.0
+2020-06-05,Brazil,Sergipe,8200.0,186.0,0.0,8014.0
+2020-06-05,Brazil,Tocantins,4881.0,87.0,0.0,4794.0
+2020-06-05,Canada,Alberta,7098.0,146.0,6624.0,328.0
+2020-06-05,Canada,British Columbia,2632.0,167.0,2272.0,193.0
+2020-06-05,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
+2020-06-05,Canada,Grand Princess,13.0,0.0,13.0,0.0
+2020-06-05,Canada,Manitoba,300.0,7.0,284.0,9.0
+2020-06-05,Canada,New Brunswick,136.0,1.0,121.0,14.0
+2020-06-05,Canada,Newfoundland and Labrador,261.0,3.0,256.0,2.0
+2020-06-05,Canada,Northwest Territories,5.0,0.0,5.0,0.0
+2020-06-05,Canada,Nova Scotia,1058.0,61.0,997.0,0.0
+2020-06-05,Canada,Ontario,31359.0,2446.0,24089.0,4824.0
+2020-06-05,Canada,Prince Edward Island,27.0,0.0,27.0,0.0
+2020-06-05,Canada,Quebec,52398.0,4935.0,17764.0,29699.0
+2020-06-05,Canada,Saskatchewan,649.0,11.0,611.0,27.0
+2020-06-05,Canada,Yukon,11.0,0.0,11.0,0.0
+2020-06-05,Chile,Antofagasta,2924.0,42.0,0.0,2882.0
+2020-06-05,Chile,Araucania,2288.0,48.0,0.0,2240.0
+2020-06-05,Chile,Arica y Parinacota,782.0,9.0,0.0,773.0
+2020-06-05,Chile,Atacama,269.0,0.0,0.0,269.0
+2020-06-05,Chile,Aysen,19.0,0.0,0.0,19.0
+2020-06-05,Chile,Biobio,2379.0,13.0,0.0,2366.0
+2020-06-05,Chile,Coquimbo,832.0,5.0,0.0,827.0
+2020-06-05,Chile,Los Lagos,968.0,13.0,0.0,955.0
+2020-06-05,Chile,Los Rios,390.0,8.0,0.0,382.0
+2020-06-05,Chile,Magallanes,1072.0,19.0,0.0,1053.0
+2020-06-05,Chile,Maule,1834.0,24.0,0.0,1810.0
+2020-06-05,Chile,Metropolitana,99066.0,1105.0,0.0,97961.0
+2020-06-05,Chile,Nuble,1429.0,24.0,0.0,1405.0
+2020-06-05,Chile,OHiggins,1016.0,22.0,0.0,994.0
+2020-06-05,Chile,Tarapaca,2965.0,28.0,0.0,2937.0
+2020-06-05,Chile,Unknown,0.0,0.0,99358.0,-99358.0
+2020-06-05,Chile,Valparaiso,4266.0,88.0,0.0,4178.0
+2020-06-05,China,Anhui,991.0,6.0,985.0,0.0
+2020-06-05,China,Beijing,594.0,9.0,583.0,2.0
+2020-06-05,China,Chongqing,579.0,6.0,573.0,0.0
+2020-06-05,China,Fujian,358.0,1.0,356.0,1.0
+2020-06-05,China,Gansu,139.0,2.0,137.0,0.0
+2020-06-05,China,Guangdong,1601.0,8.0,1584.0,9.0
+2020-06-05,China,Guangxi,254.0,2.0,252.0,0.0
+2020-06-05,China,Guizhou,147.0,2.0,145.0,0.0
+2020-06-05,China,Hainan,169.0,6.0,163.0,0.0
+2020-06-05,China,Hebei,328.0,6.0,322.0,0.0
+2020-06-05,China,Heilongjiang,947.0,13.0,934.0,0.0
+2020-06-05,China,Henan,1276.0,22.0,1254.0,0.0
+2020-06-05,China,Hong Kong,1102.0,4.0,1045.0,53.0
+2020-06-05,China,Hubei,68135.0,4512.0,63623.0,0.0
+2020-06-05,China,Hunan,1019.0,4.0,1015.0,0.0
+2020-06-05,China,Inner Mongolia,235.0,1.0,213.0,21.0
+2020-06-05,China,Jiangsu,653.0,0.0,653.0,0.0
+2020-06-05,China,Jiangxi,932.0,1.0,931.0,0.0
+2020-06-05,China,Jilin,155.0,2.0,150.0,3.0
+2020-06-05,China,Liaoning,149.0,2.0,147.0,0.0
+2020-06-05,China,Macau,45.0,0.0,45.0,0.0
+2020-06-05,China,Ningxia,75.0,0.0,75.0,0.0
+2020-06-05,China,Qinghai,18.0,0.0,18.0,0.0
+2020-06-05,China,Shaanxi,309.0,3.0,305.0,1.0
+2020-06-05,China,Shandong,792.0,7.0,780.0,5.0
+2020-06-05,China,Shanghai,677.0,7.0,663.0,7.0
+2020-06-05,China,Shanxi,198.0,0.0,198.0,0.0
+2020-06-05,China,Sichuan,578.0,3.0,558.0,17.0
+2020-06-05,China,Tianjin,192.0,3.0,189.0,0.0
+2020-06-05,China,Tibet,1.0,0.0,1.0,0.0
+2020-06-05,China,Xinjiang,76.0,3.0,73.0,0.0
+2020-06-05,China,Yunnan,185.0,2.0,183.0,0.0
+2020-06-05,China,Zhejiang,1268.0,1.0,1267.0,0.0
+2020-06-05,Colombia,Amazonas,1954.0,70.0,858.0,1026.0
+2020-06-05,Colombia,Antioquia,1360.0,7.0,552.0,801.0
+2020-06-05,Colombia,Arauca,2.0,0.0,1.0,1.0
+2020-06-05,Colombia,Atlantico,5808.0,173.0,1543.0,4092.0
+2020-06-05,Colombia,Bolivar,3858.0,175.0,1011.0,2672.0
+2020-06-05,Colombia,Boyaca,221.0,13.0,115.0,93.0
+2020-06-05,Colombia,Caldas,164.0,7.0,116.0,41.0
+2020-06-05,Colombia,Capital District,12185.0,311.0,4895.0,6979.0
+2020-06-05,Colombia,Caqueta,24.0,2.0,19.0,3.0
+2020-06-05,Colombia,Casanare,36.0,0.0,26.0,10.0
+2020-06-05,Colombia,Cauca,135.0,5.0,60.0,70.0
+2020-06-05,Colombia,Cesar,415.0,12.0,63.0,340.0
+2020-06-05,Colombia,Choco,395.0,10.0,53.0,332.0
+2020-06-05,Colombia,Cordoba,195.0,9.0,64.0,122.0
+2020-06-05,Colombia,Cundinamarca,1203.0,31.0,359.0,813.0
+2020-06-05,Colombia,Guainia,6.0,0.0,0.0,6.0
+2020-06-05,Colombia,Huila,253.0,13.0,211.0,29.0
+2020-06-05,Colombia,La Guajira,72.0,5.0,38.0,29.0
+2020-06-05,Colombia,Magdalena,735.0,46.0,315.0,374.0
+2020-06-05,Colombia,Meta,987.0,11.0,926.0,50.0
+2020-06-05,Colombia,Narino,1431.0,60.0,358.0,1013.0
+2020-06-05,Colombia,Norte de Santander,133.0,14.0,103.0,16.0
+2020-06-05,Colombia,Putumayo,11.0,2.0,3.0,6.0
+2020-06-05,Colombia,Quindio,120.0,4.0,87.0,29.0
+2020-06-05,Colombia,Risaralda,268.0,9.0,227.0,32.0
+2020-06-05,Colombia,San Andres y Providencia,17.0,0.0,15.0,2.0
+2020-06-05,Colombia,Santander,131.0,4.0,50.0,77.0
+2020-06-05,Colombia,Sucre,81.0,0.0,5.0,76.0
+2020-06-05,Colombia,Tolima,279.0,9.0,156.0,114.0
+2020-06-05,Colombia,Unknown,62.0,0.0,0.0,62.0
+2020-06-05,Colombia,Valle del Cauca,4206.0,202.0,1430.0,2574.0
+2020-06-05,Colombia,Vaupes,11.0,0.0,11.0,0.0
+2020-06-05,Colombia,Vichada,1.0,0.0,0.0,1.0
+2020-06-05,Denmark,Faroe Islands,187.0,0.0,187.0,0.0
+2020-06-05,Denmark,Greenland,13.0,0.0,13.0,0.0
+2020-06-05,France,French Guiana,589.0,1.0,321.0,267.0
+2020-06-05,France,French Polynesia,60.0,0.0,60.0,0.0
+2020-06-05,France,Guadeloupe,164.0,14.0,144.0,6.0
+2020-06-05,France,Martinique,202.0,14.0,98.0,90.0
+2020-06-05,France,Mayotte,2079.0,25.0,1523.0,531.0
+2020-06-05,France,New Caledonia,20.0,0.0,18.0,2.0
+2020-06-05,France,Reunion,480.0,1.0,411.0,68.0
+2020-06-05,France,Saint Barthelemy,6.0,0.0,6.0,0.0
+2020-06-05,France,Saint Pierre and Miquelon,1.0,0.0,1.0,0.0
+2020-06-05,France,St Martin,41.0,3.0,33.0,5.0
+2020-06-05,Germany,Baden-Wurttemberg,34892.0,1790.0,32400.0,702.0
+2020-06-05,Germany,Bayern,47389.0,2494.0,43480.0,1415.0
+2020-06-05,Germany,Berlin,6963.0,201.0,6443.0,319.0
+2020-06-05,Germany,Brandenburg,3296.0,169.0,3100.0,27.0
+2020-06-05,Germany,Bremen,1514.0,44.0,1300.0,170.0
+2020-06-05,Germany,Hamburg,5110.0,253.0,4800.0,57.0
+2020-06-05,Germany,Hessen,10163.0,482.0,9200.0,481.0
+2020-06-05,Germany,Mecklenburg-Vorpommern,766.0,20.0,722.0,24.0
+2020-06-05,Germany,Niedersachsen,12356.0,608.0,10900.0,848.0
+2020-06-05,Germany,Nordrhein-Westfalen,38439.0,1617.0,35200.0,1622.0
+2020-06-05,Germany,Rheinland-Pfalz,6752.0,230.0,6304.0,218.0
+2020-06-05,Germany,Saarland,2738.0,168.0,2511.0,59.0
+2020-06-05,Germany,Sachsen,5319.0,212.0,4900.0,207.0
+2020-06-05,Germany,Sachsen-Anhalt,1717.0,55.0,1610.0,52.0
+2020-06-05,Germany,Schleswig-Holstein,3106.0,146.0,2900.0,60.0
+2020-06-05,Germany,Thuringen,3053.0,169.0,2710.0,174.0
+2020-06-05,Germany,Unknown,1351.0,0.0,0.0,1351.0
+2020-06-05,Italy,Abruzzo,3257.0,415.0,2172.0,670.0
+2020-06-05,Italy,Basilicata,399.0,27.0,354.0,18.0
+2020-06-05,Italy,Calabria,1159.0,97.0,965.0,97.0
+2020-06-05,Italy,Campania,4822.0,425.0,3623.0,774.0
+2020-06-05,Italy,Emilia-Romagna,27877.0,4167.0,21198.0,2512.0
+2020-06-05,Italy,Friuli Venezia Giulia,3280.0,338.0,2762.0,180.0
+2020-06-05,Italy,Lazio,7773.0,754.0,4309.0,2710.0
+2020-06-05,Italy,Liguria,9786.0,1486.0,8056.0,244.0
+2020-06-05,Italy,Lombardia,89928.0,16222.0,53853.0,19853.0
+2020-06-05,Italy,Marche,6740.0,989.0,4458.0,1293.0
+2020-06-05,Italy,Molise,436.0,23.0,291.0,122.0
+2020-06-05,Italy,P.A. Bolzano,2599.0,292.0,2206.0,101.0
+2020-06-05,Italy,P.A. Trento,4433.0,464.0,3846.0,123.0
+2020-06-05,Italy,Piemonte,30807.0,3927.0,22511.0,4369.0
+2020-06-05,Italy,Puglia,4507.0,521.0,3140.0,846.0
+2020-06-05,Italy,Sardegna,1359.0,131.0,1161.0,67.0
+2020-06-05,Italy,Sicilia,3448.0,276.0,2300.0,872.0
+2020-06-05,Italy,Toscana,10129.0,1063.0,8209.0,857.0
+2020-06-05,Italy,Umbria,1431.0,76.0,1326.0,29.0
+2020-06-05,Italy,Valle d'Aosta,1187.0,143.0,1034.0,10.0
+2020-06-05,Italy,Veneto,19174.0,1938.0,16007.0,1229.0
+2020-06-05,Japan,Aichi,509.0,34.0,462.0,13.0
+2020-06-05,Japan,Akita,16.0,0.0,16.0,0.0
+2020-06-05,Japan,Aomori,27.0,1.0,26.0,0.0
+2020-06-05,Japan,Chiba,912.0,45.0,842.0,25.0
+2020-06-05,Japan,Ehime,82.0,4.0,64.0,14.0
+2020-06-05,Japan,Fukui,122.0,8.0,112.0,2.0
+2020-06-05,Japan,Fukuoka,794.0,29.0,633.0,132.0
+2020-06-05,Japan,Fukushima,81.0,0.0,76.0,5.0
+2020-06-05,Japan,Gifu,151.0,7.0,141.0,3.0
+2020-06-05,Japan,Gunma,151.0,19.0,122.0,10.0
+2020-06-05,Japan,Hiroshima,165.0,3.0,162.0,0.0
+2020-06-05,Japan,Hokkaido,1100.0,90.0,849.0,161.0
+2020-06-05,Japan,Hyogo,699.0,42.0,647.0,10.0
+2020-06-05,Japan,Ibaraki,168.0,10.0,150.0,8.0
+2020-06-05,Japan,Ishikawa,299.0,27.0,236.0,36.0
+2020-06-05,Japan,Kagawa,28.0,0.0,28.0,0.0
+2020-06-05,Japan,Kagoshima,10.0,0.0,10.0,0.0
+2020-06-05,Japan,Kanagawa,1386.0,88.0,1157.0,141.0
+2020-06-05,Japan,Kochi,74.0,3.0,71.0,0.0
+2020-06-05,Japan,Kumamoto,47.0,3.0,44.0,0.0
+2020-06-05,Japan,Kyoto,358.0,18.0,358.0,-18.0
+2020-06-05,Japan,Mie,45.0,1.0,44.0,0.0
+2020-06-05,Japan,Miyagi,88.0,1.0,87.0,0.0
+2020-06-05,Japan,Miyazaki,17.0,0.0,17.0,0.0
+2020-06-05,Japan,Nagano,75.0,0.0,71.0,4.0
+2020-06-05,Japan,Nagasaki,17.0,1.0,16.0,0.0
+2020-06-05,Japan,Nara,92.0,2.0,89.0,1.0
+2020-06-05,Japan,Niigata,82.0,0.0,81.0,1.0
+2020-06-05,Japan,Oita,60.0,1.0,58.0,1.0
+2020-06-05,Japan,Okayama,25.0,0.0,25.0,0.0
+2020-06-05,Japan,Okinawa,145.0,6.0,137.0,2.0
+2020-06-05,Japan,Osaka,1783.0,84.0,1622.0,77.0
+2020-06-05,Japan,Port Quarantine,209.0,0.0,154.0,55.0
+2020-06-05,Japan,Saga,45.0,0.0,45.0,0.0
+2020-06-05,Japan,Saitama,1006.0,51.0,918.0,37.0
+2020-06-05,Japan,Shiga,100.0,1.0,94.0,5.0
+2020-06-05,Japan,Shimane,24.0,0.0,23.0,1.0
+2020-06-05,Japan,Shizuoka,76.0,1.0,72.0,3.0
+2020-06-05,Japan,Tochigi,66.0,0.0,53.0,13.0
+2020-06-05,Japan,Tokushima,5.0,1.0,4.0,0.0
+2020-06-05,Japan,Tokyo,5347.0,309.0,4687.0,351.0
+2020-06-05,Japan,Tottori,3.0,0.0,3.0,0.0
+2020-06-05,Japan,Toyama,227.0,22.0,198.0,7.0
+2020-06-05,Japan,Unknown,8.0,0.0,0.0,8.0
+2020-06-05,Japan,Wakayama,63.0,3.0,60.0,0.0
+2020-06-05,Japan,Yamagata,69.0,0.0,66.0,3.0
+2020-06-05,Japan,Yamaguchi,37.0,0.0,36.0,1.0
+2020-06-05,Japan,Yamanashi,65.0,1.0,59.0,5.0
+2020-06-05,Mexico,Aguascalientes,1072.0,48.0,703.0,321.0
+2020-06-05,Mexico,Baja California,5784.0,1200.0,4006.0,578.0
+2020-06-05,Mexico,Baja California Sur,735.0,41.0,569.0,125.0
+2020-06-05,Mexico,Campeche,688.0,103.0,464.0,121.0
+2020-06-05,Mexico,Chiapas,2283.0,176.0,1449.0,658.0
+2020-06-05,Mexico,Chihuahua,1807.0,376.0,1341.0,90.0
+2020-06-05,Mexico,Ciudad de Mexico,29580.0,3631.0,21649.0,4300.0
+2020-06-05,Mexico,Coahuila,1350.0,91.0,994.0,265.0
+2020-06-05,Mexico,Colima,196.0,29.0,117.0,50.0
+2020-06-05,Mexico,Durango,536.0,49.0,264.0,223.0
+2020-06-05,Mexico,Guanajuato,2278.0,134.0,1218.0,926.0
+2020-06-05,Mexico,Guerrero,2325.0,347.0,1740.0,238.0
+2020-06-05,Mexico,Hidalgo,2131.0,386.0,1276.0,469.0
+2020-06-05,Mexico,Jalisco,2447.0,213.0,1294.0,940.0
+2020-06-05,Mexico,Mexico,17815.0,1531.0,13842.0,2442.0
+2020-06-05,Mexico,Michoacan,2311.0,220.0,1669.0,422.0
+2020-06-05,Mexico,Morelos,1540.0,295.0,982.0,263.0
+2020-06-05,Mexico,Nayarit,722.0,81.0,430.0,211.0
+2020-06-05,Mexico,Nuevo Leon,1758.0,109.0,1221.0,428.0
+2020-06-05,Mexico,Oaxaca,2000.0,215.0,1300.0,485.0
+2020-06-05,Mexico,Puebla,3804.0,525.0,2474.0,805.0
+2020-06-05,Mexico,Queretaro,1106.0,139.0,724.0,243.0
+2020-06-05,Mexico,Quintana Roo,2116.0,411.0,1392.0,313.0
+2020-06-05,Mexico,San Luis Potosi,1124.0,62.0,762.0,300.0
+2020-06-05,Mexico,Sinaloa,4237.0,673.0,2936.0,628.0
+2020-06-05,Mexico,Sonora,2727.0,165.0,2120.0,442.0
+2020-06-05,Mexico,Tabasco,5068.0,626.0,3518.0,924.0
+2020-06-05,Mexico,Tamaulipas,1952.0,140.0,1449.0,363.0
+2020-06-05,Mexico,Tlaxcala,1257.0,183.0,854.0,220.0
+2020-06-05,Mexico,Veracruz,4871.0,721.0,3372.0,778.0
+2020-06-05,Mexico,Yucatan,2059.0,207.0,1479.0,373.0
+2020-06-05,Mexico,Zacatecas,347.0,43.0,233.0,71.0
+2020-06-05,Netherlands,Aruba,101.0,3.0,98.0,0.0
+2020-06-05,Netherlands,"Bonaire, Sint Eustatius and Saba",7.0,0.0,7.0,0.0
+2020-06-05,Netherlands,Curacao,21.0,1.0,15.0,5.0
+2020-06-05,Netherlands,Sint Maarten,77.0,15.0,61.0,1.0
+2020-06-05,Peru,Amazonas,732.0,27.0,0.0,705.0
+2020-06-05,Peru,Ancash,5226.0,300.0,0.0,4926.0
+2020-06-05,Peru,Apurimac,237.0,4.0,0.0,233.0
+2020-06-05,Peru,Arequipa,4204.0,59.0,0.0,4145.0
+2020-06-05,Peru,Ayacucho,865.0,8.0,0.0,857.0
+2020-06-05,Peru,Cajamarca,875.0,9.0,0.0,866.0
+2020-06-05,Peru,Callao,13410.0,369.0,0.0,13041.0
+2020-06-05,Peru,Cusco,1182.0,4.0,0.0,1178.0
+2020-06-05,Peru,Huancavelica,507.0,2.0,0.0,505.0
+2020-06-05,Peru,Huanuco,1120.0,13.0,0.0,1107.0
+2020-06-05,Peru,Ica,4020.0,277.0,0.0,3743.0
+2020-06-05,Peru,Junin,2093.0,21.0,0.0,2072.0
+2020-06-05,Peru,La Libertad,5483.0,223.0,0.0,5260.0
+2020-06-05,Peru,Lambayeque,9634.0,629.0,0.0,9005.0
+2020-06-05,Peru,Lima,110161.0,2095.0,0.0,108066.0
+2020-06-05,Peru,Loreto,6172.0,300.0,0.0,5872.0
+2020-06-05,Peru,Madre de Dios,731.0,10.0,0.0,721.0
+2020-06-05,Peru,Moquegua,668.0,2.0,0.0,666.0
+2020-06-05,Peru,Pasco,553.0,11.0,0.0,542.0
+2020-06-05,Peru,Piura,10198.0,556.0,0.0,9642.0
+2020-06-05,Peru,Puno,456.0,9.0,0.0,447.0
+2020-06-05,Peru,San Martin,1781.0,31.0,0.0,1750.0
+2020-06-05,Peru,Tacna,504.0,5.0,0.0,499.0
+2020-06-05,Peru,Tumbes,1501.0,84.0,0.0,1417.0
+2020-06-05,Peru,Ucayali,5087.0,114.0,0.0,4973.0
+2020-06-05,Peru,Unknown,0.0,0.0,79214.0,-79214.0
+2020-06-05,Russia,Adygea Republic,962.0,9.0,519.0,434.0
+2020-06-05,Russia,Altai Krai,2192.0,13.0,966.0,1213.0
+2020-06-05,Russia,Altai Republic,156.0,0.0,91.0,65.0
+2020-06-05,Russia,Amur Oblast,615.0,5.0,228.0,382.0
+2020-06-05,Russia,Arkhangelsk Oblast,2621.0,9.0,779.0,1833.0
+2020-06-05,Russia,Astrakhan Oblast,2172.0,20.0,1166.0,986.0
+2020-06-05,Russia,Bashkortostan Republic,3727.0,18.0,1286.0,2423.0
+2020-06-05,Russia,Belgorod Oblast,2695.0,22.0,1236.0,1437.0
+2020-06-05,Russia,Bryansk Oblast,4174.0,31.0,2720.0,1423.0
+2020-06-05,Russia,Buryatia Republic,1681.0,10.0,999.0,672.0
+2020-06-05,Russia,Chechen Republic,1306.0,14.0,982.0,310.0
+2020-06-05,Russia,Chelyabinsk Oblast,3371.0,23.0,1540.0,1808.0
+2020-06-05,Russia,Chukotka Autonomous Okrug,97.0,1.0,61.0,35.0
+2020-06-05,Russia,Chuvashia Republic,3311.0,15.0,1476.0,1820.0
+2020-06-05,Russia,Dagestan Republic,5587.0,288.0,4520.0,779.0
+2020-06-05,Russia,Ingushetia Republic,2268.0,61.0,1316.0,891.0
+2020-06-05,Russia,Irkutsk Oblast,2542.0,16.0,556.0,1970.0
+2020-06-05,Russia,Ivanovo Oblast,2447.0,20.0,997.0,1430.0
+2020-06-05,Russia,Jewish Autonomous Okrug,329.0,4.0,247.0,78.0
+2020-06-05,Russia,Kabardino-Balkarian Republic,3199.0,27.0,1502.0,1670.0
+2020-06-05,Russia,Kaliningrad Oblast,1700.0,24.0,740.0,936.0
+2020-06-05,Russia,Kalmykia Republic,1136.0,16.0,609.0,511.0
+2020-06-05,Russia,Kaluga Oblast,4357.0,34.0,1954.0,2369.0
+2020-06-05,Russia,Kamchatka Krai,1033.0,10.0,298.0,725.0
+2020-06-05,Russia,Karachay-Cherkess Republic,1430.0,7.0,399.0,1024.0
+2020-06-05,Russia,Karelia Republic,548.0,2.0,210.0,336.0
+2020-06-05,Russia,Kemerovo Oblast,666.0,7.0,270.0,389.0
+2020-06-05,Russia,Khabarovsk Krai,2398.0,15.0,1292.0,1091.0
+2020-06-05,Russia,Khakassia Republic,1102.0,10.0,680.0,412.0
+2020-06-05,Russia,Khanty-Mansi Autonomous Okrug,3104.0,18.0,1044.0,2042.0
+2020-06-05,Russia,Kirov Oblast,2042.0,18.0,1115.0,909.0
+2020-06-05,Russia,Komi Republic,1480.0,25.0,855.0,600.0
+2020-06-05,Russia,Kostroma Oblast,862.0,11.0,439.0,412.0
+2020-06-05,Russia,Krasnodar Krai,4231.0,41.0,3109.0,1081.0
+2020-06-05,Russia,Krasnoyarsk Krai,4968.0,49.0,1427.0,3492.0
+2020-06-05,Russia,Kurgan Oblast,268.0,0.0,153.0,115.0
+2020-06-05,Russia,Kursk Oblast,3357.0,15.0,1668.0,1674.0
+2020-06-05,Russia,Leningrad Oblast,3086.0,17.0,2011.0,1058.0
+2020-06-05,Russia,Lipetsk Oblast,2452.0,8.0,892.0,1552.0
+2020-06-05,Russia,Magadan Oblast,286.0,3.0,206.0,77.0
+2020-06-05,Russia,Mari El Republic,1975.0,14.0,1633.0,328.0
+2020-06-05,Russia,Mordovia Republic,2098.0,15.0,1064.0,1019.0
+2020-06-05,Russia,Moscow,191069.0,2806.0,97358.0,90905.0
+2020-06-05,Russia,Moscow Oblast,42720.0,539.0,10392.0,31789.0
+2020-06-05,Russia,Murmansk Oblast,3422.0,7.0,2427.0,988.0
+2020-06-05,Russia,Nenets Autonomous Okrug,80.0,0.0,15.0,65.0
+2020-06-05,Russia,Nizhny Novgorod Oblast,11499.0,125.0,4612.0,6762.0
+2020-06-05,Russia,North Ossetia - Alania Republic,3197.0,57.0,2702.0,438.0
+2020-06-05,Russia,Novgorod Oblast,1588.0,9.0,429.0,1150.0
+2020-06-05,Russia,Novosibirsk Oblast,3334.0,38.0,1306.0,1990.0
+2020-06-05,Russia,Omsk Oblast,1595.0,18.0,605.0,972.0
+2020-06-05,Russia,Orel Oblast,2649.0,31.0,1409.0,1209.0
+2020-06-05,Russia,Orenburg Oblast,2204.0,8.0,1587.0,609.0
+2020-06-05,Russia,Penza Oblast,2759.0,26.0,2260.0,473.0
+2020-06-05,Russia,Perm Krai,2011.0,27.0,1321.0,663.0
+2020-06-05,Russia,Primorsky Krai,2262.0,22.0,1356.0,884.0
+2020-06-05,Russia,Pskov Oblast,1131.0,11.0,420.0,700.0
+2020-06-05,Russia,Rostov Oblast,5753.0,43.0,2157.0,3553.0
+2020-06-05,Russia,Ryazan Oblast,3872.0,10.0,1330.0,2532.0
+2020-06-05,Russia,Saint Petersburg,17822.0,291.0,7076.0,10455.0
+2020-06-05,Russia,Sakha (Yakutiya) Republic,2380.0,14.0,1177.0,1189.0
+2020-06-05,Russia,Sakhalin Oblast,160.0,0.0,63.0,97.0
+2020-06-05,Russia,Samara Oblast,2922.0,23.0,1282.0,1617.0
+2020-06-05,Russia,Saratov Oblast,3553.0,35.0,1404.0,2114.0
+2020-06-05,Russia,Smolensk Oblast,2828.0,41.0,978.0,1809.0
+2020-06-05,Russia,Stavropol Krai,2903.0,56.0,1409.0,1438.0
+2020-06-05,Russia,Sverdlovsk Oblast,6930.0,37.0,2997.0,3896.0
+2020-06-05,Russia,Tambov Oblast,3307.0,8.0,1443.0,1856.0
+2020-06-05,Russia,Tatarstan Republic,3452.0,10.0,3235.0,207.0
+2020-06-05,Russia,Tomsk Oblast,832.0,11.0,386.0,435.0
+2020-06-05,Russia,Tula Oblast,4398.0,47.0,2273.0,2078.0
+2020-06-05,Russia,Tver Oblast,1875.0,39.0,1338.0,498.0
+2020-06-05,Russia,Tyumen Oblast,1834.0,10.0,1003.0,821.0
+2020-06-05,Russia,Tyva Republic,1391.0,2.0,232.0,1157.0
+2020-06-05,Russia,Udmurt Republic,865.0,12.0,460.0,393.0
+2020-06-05,Russia,Ulyanovsk Oblast,2965.0,12.0,897.0,2056.0
+2020-06-05,Russia,Vladimir Oblast,2966.0,30.0,1112.0,1824.0
+2020-06-05,Russia,Volgograd Oblast,3669.0,21.0,1321.0,2327.0
+2020-06-05,Russia,Vologda Oblast,1035.0,11.0,489.0,535.0
+2020-06-05,Russia,Voronezh Oblast,2592.0,16.0,1624.0,952.0
+2020-06-05,Russia,Yamalo-Nenets Autonomous Okrug,2579.0,11.0,1340.0,1228.0
+2020-06-05,Russia,Yaroslavl Oblast,3501.0,15.0,1007.0,2479.0
+2020-06-05,Russia,Zabaykalsky Krai,1321.0,26.0,750.0,545.0
+2020-06-05,Spain,Andalusia,12759.0,1404.0,10671.0,684.0
+2020-06-05,Spain,Aragon,5757.0,826.0,3772.0,1159.0
+2020-06-05,Spain,Asturias,2424.0,312.0,1063.0,1049.0
+2020-06-05,Spain,Baleares,2110.0,209.0,1533.0,368.0
+2020-06-05,Spain,C. Valenciana,11285.0,1332.0,9970.0,-17.0
+2020-06-05,Spain,Canarias,2362.0,151.0,1537.0,674.0
+2020-06-05,Spain,Cantabria,2320.0,202.0,2287.0,-169.0
+2020-06-05,Spain,Castilla - La Mancha,17431.0,2945.0,6392.0,8094.0
+2020-06-05,Spain,Castilla y Leon,19042.0,1928.0,8716.0,8398.0
+2020-06-05,Spain,Catalonia,59182.0,5587.0,26203.0,27392.0
+2020-06-05,Spain,Ceuta,163.0,4.0,163.0,-4.0
+2020-06-05,Spain,Extremadura,2976.0,508.0,2652.0,-184.0
+2020-06-05,Spain,Galicia,9146.0,609.0,9204.0,-667.0
+2020-06-05,Spain,La Rioja,4056.0,362.0,3107.0,587.0
+2020-06-05,Spain,Madrid,69423.0,8691.0,40736.0,19996.0
+2020-06-05,Spain,Melilla,122.0,2.0,125.0,-5.0
+2020-06-05,Spain,Murcia,1616.0,148.0,2180.0,-712.0
+2020-06-05,Spain,Navarra,5275.0,490.0,3905.0,880.0
+2020-06-05,Spain,Pais Vasco,13529.0,1424.0,16160.0,-4055.0
+2020-06-05,Spain,Unknown,0.0,0.0,0.0,0.0
+2020-06-05,Sweden,Blekinge,264.0,5.0,0.0,259.0
+2020-06-05,Sweden,Dalarna,1277.0,147.0,0.0,1130.0
+2020-06-05,Sweden,Gavleborg,1435.0,111.0,0.0,1324.0
+2020-06-05,Sweden,Gotland,88.0,6.0,0.0,82.0
+2020-06-05,Sweden,Halland,870.0,56.0,0.0,814.0
+2020-06-05,Sweden,Jamtland Harjedalen,774.0,33.0,0.0,741.0
+2020-06-05,Sweden,Jonkoping,1681.0,144.0,0.0,1537.0
+2020-06-05,Sweden,Kalmar,390.0,39.0,0.0,351.0
+2020-06-05,Sweden,Kronoberg,897.0,76.0,0.0,821.0
+2020-06-05,Sweden,Norrbotten,481.0,48.0,0.0,433.0
+2020-06-05,Sweden,Orebro,1896.0,139.0,0.0,1757.0
+2020-06-05,Sweden,Ostergotland,2197.0,194.0,0.0,2003.0
+2020-06-05,Sweden,Skane,1928.0,192.0,0.0,1736.0
+2020-06-05,Sweden,Sormland,1655.0,228.0,0.0,1427.0
+2020-06-05,Sweden,Stockholm,14366.0,2136.0,0.0,12230.0
+2020-06-05,Sweden,Uppsala,2136.0,184.0,0.0,1952.0
+2020-06-05,Sweden,Varmland,599.0,37.0,0.0,562.0
+2020-06-05,Sweden,Vasterbotten,518.0,28.0,0.0,490.0
+2020-06-05,Sweden,Vasternorrland,835.0,88.0,0.0,747.0
+2020-06-05,Sweden,Vastmanland,1434.0,148.0,0.0,1286.0
+2020-06-05,Sweden,Vastra Gotaland,7218.0,600.0,0.0,6618.0
+2020-06-05,US,Alabama,19387.0,676.0,0.0,18711.0
+2020-06-05,US,Alaska,523.0,10.0,0.0,513.0
+2020-06-05,US,Arizona,24439.0,1015.0,0.0,23424.0
+2020-06-05,US,Arkansas,8651.0,152.0,0.0,8499.0
+2020-06-05,US,California,125738.0,4529.0,0.0,121209.0
+2020-06-05,US,Colorado,27601.0,1524.0,0.0,26077.0
+2020-06-05,US,Connecticut,43460.0,4038.0,0.0,39422.0
+2020-06-05,US,Delaware,9773.0,388.0,0.0,9385.0
+2020-06-05,US,Diamond Princess,49.0,0.0,0.0,49.0
+2020-06-05,US,District of Columbia,9199.0,479.0,0.0,8720.0
+2020-06-05,US,Florida,61488.0,2660.0,0.0,58828.0
+2020-06-05,US,Georgia,50621.0,2174.0,0.0,48447.0
+2020-06-05,US,Grand Princess,103.0,3.0,0.0,100.0
+2020-06-05,US,Guam,179.0,5.0,0.0,174.0
+2020-06-05,US,Hawaii,664.0,17.0,0.0,647.0
+2020-06-05,US,Idaho,3111.0,83.0,0.0,3028.0
+2020-06-05,US,Illinois,125915.0,5795.0,0.0,120120.0
+2020-06-05,US,Indiana,36578.0,2258.0,0.0,34320.0
+2020-06-05,US,Iowa,21154.0,593.0,0.0,20561.0
+2020-06-05,US,Kansas,10306.0,232.0,0.0,10074.0
+2020-06-05,US,Kentucky,10977.0,466.0,0.0,10511.0
+2020-06-05,US,Louisiana,41989.0,2912.0,0.0,39077.0
+2020-06-05,US,Maine,2482.0,98.0,0.0,2384.0
+2020-06-05,US,Maryland,56770.0,2702.0,0.0,54068.0
+2020-06-05,US,Massachusetts,102557.0,7235.0,0.0,95322.0
+2020-06-05,US,Michigan,58525.0,5613.0,0.0,52912.0
+2020-06-05,US,Minnesota,26980.0,1159.0,0.0,25821.0
+2020-06-05,US,Mississippi,16769.0,803.0,0.0,15966.0
+2020-06-05,US,Missouri,14572.0,805.0,0.0,13767.0
+2020-06-05,US,Montana,541.0,18.0,0.0,523.0
+2020-06-05,US,Nebraska,15406.0,187.0,0.0,15219.0
+2020-06-05,US,Nevada,9309.0,436.0,0.0,8873.0
+2020-06-05,US,New Hampshire,4953.0,278.0,0.0,4675.0
+2020-06-05,US,New Jersey,163336.0,12049.0,0.0,151287.0
+2020-06-05,US,New Mexico,8672.0,387.0,0.0,8285.0
+2020-06-05,US,New York,376208.0,30236.0,0.0,345972.0
+2020-06-05,US,North Carolina,33295.0,1015.0,0.0,32280.0
+2020-06-05,US,North Dakota,2745.0,71.0,0.0,2674.0
+2020-06-05,US,Northern Mariana Islands,26.0,16.0,0.0,10.0
+2020-06-05,US,Ohio,37758.0,2357.0,0.0,35401.0
+2020-06-05,US,Oklahoma,7007.0,345.0,0.0,6662.0
+2020-06-05,US,Oregon,4570.0,161.0,0.0,4409.0
+2020-06-05,US,Pennsylvania,78815.0,5898.0,0.0,72917.0
+2020-06-05,US,Puerto Rico,4620.0,141.0,0.0,4479.0
+2020-06-05,US,Recovered,0.0,0.0,491706.0,-444676.0
+2020-06-05,US,Rhode Island,15441.0,772.0,0.0,14669.0
+2020-06-05,US,South Carolina,13453.0,539.0,0.0,12914.0
+2020-06-05,US,South Dakota,5277.0,64.0,0.0,5213.0
+2020-06-05,US,Tennessee,25664.0,408.0,0.0,25256.0
+2020-06-05,US,Texas,72548.0,1812.0,0.0,70736.0
+2020-06-05,US,Utah,11252.0,120.0,0.0,11132.0
+2020-06-05,US,Vermont,1027.0,55.0,0.0,972.0
+2020-06-05,US,Virgin Islands,71.0,6.0,0.0,65.0
+2020-06-05,US,Virginia,48532.0,1454.0,0.0,47078.0
+2020-06-05,US,Washington,22993.0,1149.0,0.0,21844.0
+2020-06-05,US,West Virginia,2119.0,84.0,0.0,2035.0
+2020-06-05,US,Wisconsin,20249.0,633.0,0.0,19616.0
+2020-06-05,US,Wyoming,933.0,17.0,0.0,916.0
+2020-06-05,Ukraine,Cherkasy Oblast,432.0,16.0,334.0,82.0
+2020-06-05,Ukraine,Chernihiv Oblast,250.0,8.0,76.0,166.0
+2020-06-05,Ukraine,Chernivtsi Oblast,3519.0,150.0,1079.0,2290.0
+2020-06-05,Ukraine,Crimea Republic*,405.0,5.0,298.0,102.0
+2020-06-05,Ukraine,Dnipropetrovsk Oblast,960.0,21.0,397.0,542.0
+2020-06-05,Ukraine,Donetsk Oblast,195.0,5.0,119.0,71.0
+2020-06-05,Ukraine,Ivano-Frankivsk Oblast,1507.0,85.0,893.0,529.0
+2020-06-05,Ukraine,Kharkiv Oblast,1196.0,51.0,474.0,671.0
+2020-06-05,Ukraine,Kherson Oblast,179.0,3.0,165.0,11.0
+2020-06-05,Ukraine,Khmelnytskyi Oblast,501.0,11.0,306.0,184.0
+2020-06-05,Ukraine,Kiev,3292.0,73.0,876.0,2343.0
+2020-06-05,Ukraine,Kiev Oblast,1711.0,37.0,472.0,1202.0
+2020-06-05,Ukraine,Kirovohrad Oblast,538.0,27.0,413.0,98.0
+2020-06-05,Ukraine,Luhansk Oblast,51.0,0.0,43.0,8.0
+2020-06-05,Ukraine,Lviv Oblast,1988.0,63.0,492.0,1433.0
+2020-06-05,Ukraine,Mykolaiv Oblast,307.0,7.0,188.0,112.0
+2020-06-05,Ukraine,Odessa Oblast,970.0,18.0,329.0,623.0
+2020-06-05,Ukraine,Poltava Oblast,272.0,13.0,255.0,4.0
+2020-06-05,Ukraine,Rivne Oblast,1962.0,40.0,1039.0,883.0
+2020-06-05,Ukraine,Sevastopol*,173.0,3.0,145.0,25.0
+2020-06-05,Ukraine,Sumy Oblast,188.0,4.0,155.0,29.0
+2020-06-05,Ukraine,Ternopil Oblast,1233.0,26.0,963.0,244.0
+2020-06-05,Ukraine,Vinnytsia Oblast,1093.0,17.0,697.0,379.0
+2020-06-05,Ukraine,Volyn Oblast,1008.0,30.0,294.0,684.0
+2020-06-05,Ukraine,Zakarpattia Oblast,1280.0,28.0,551.0,701.0
+2020-06-05,Ukraine,Zaporizhia Oblast,477.0,14.0,280.0,183.0
+2020-06-05,Ukraine,Zhytomyr Oblast,855.0,15.0,482.0,358.0
+2020-06-05,United Kingdom,Anguilla,3.0,0.0,3.0,0.0
+2020-06-05,United Kingdom,Bermuda,141.0,9.0,114.0,18.0
+2020-06-05,United Kingdom,British Virgin Islands,8.0,1.0,7.0,0.0
+2020-06-05,United Kingdom,Cayman Islands,164.0,1.0,93.0,70.0
+2020-06-05,United Kingdom,Channel Islands,561.0,46.0,512.0,3.0
+2020-06-05,United Kingdom,Falkland Islands (Malvinas),13.0,0.0,13.0,0.0
+2020-06-05,United Kingdom,Gibraltar,174.0,0.0,153.0,21.0
+2020-06-05,United Kingdom,Isle of Man,336.0,24.0,312.0,0.0
+2020-06-05,United Kingdom,Montserrat,11.0,1.0,10.0,0.0
+2020-06-05,United Kingdom,Turks and Caicos Islands,12.0,1.0,11.0,0.0
