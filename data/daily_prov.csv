@@ -18589,6 +18589,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-05,Brazil,Sao Paulo,134565.0,8842.0,0.0,125723.0
 2020-06-05,Brazil,Sergipe,8577.0,198.0,0.0,8379.0
 2020-06-05,Brazil,Tocantins,5182.0,89.0,0.0,5093.0
+2020-06-05,Brazil,Unknown,0.0,0.0,266940.0,-266940.0
 2020-06-05,Canada,Alberta,7098.0,146.0,6624.0,328.0
 2020-06-05,Canada,British Columbia,2632.0,167.0,2272.0,193.0
 2020-06-05,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
