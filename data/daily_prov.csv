@@ -28955,7 +28955,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,Australia,Queensland,1066.0,6.0,1054.0,6.0
 2020-06-24,Australia,South Australia,440.0,4.0,436.0,0.0
 2020-06-24,Australia,Tasmania,228.0,13.0,215.0,0.0
-2020-06-24,Australia,Victoria,1917.0,20.0,1732.0,165.0
+2020-06-24,Australia,Victoria,1917.0,20.0,1721.0,176.0
 2020-06-24,Australia,Western Australia,608.0,9.0,595.0,4.0
 2020-06-24,Brazil,Acre,12022.0,326.0,6270.0,5426.0
 2020-06-24,Brazil,Alagoas,31230.0,938.0,23185.0,7107.0
@@ -29040,7 +29040,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,China,Qinghai,18.0,0.0,18.0,0.0
 2020-06-24,China,Shaanxi,319.0,3.0,307.0,9.0
 2020-06-24,China,Shandong,792.0,7.0,785.0,0.0
-2020-06-24,China,Shanghai,703.0,7.0,672.0,24.0
+2020-06-24,China,Shanghai,703.0,7.0,670.0,26.0
 2020-06-24,China,Shanxi,198.0,0.0,198.0,0.0
 2020-06-24,China,Sichuan,589.0,3.0,575.0,11.0
 2020-06-24,China,Tianjin,198.0,3.0,192.0,3.0
@@ -29095,22 +29095,22 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,France,Saint Pierre and Miquelon,1.0,0.0,1.0,0.0
 2020-06-24,France,St Martin,42.0,3.0,36.0,3.0
 2020-06-24,Germany,Baden-Wurttemberg,35456.0,1827.0,33200.0,429.0
-2020-06-24,Germany,Bayern,48122.0,2583.0,45000.0,539.0
-2020-06-24,Germany,Berlin,8021.0,212.0,7032.0,777.0
-2020-06-24,Germany,Brandenburg,3428.0,170.0,3200.0,58.0
+2020-06-24,Germany,Bayern,47995.0,2578.0,44900.0,517.0
+2020-06-24,Germany,Berlin,8020.0,212.0,7032.0,776.0
+2020-06-24,Germany,Brandenburg,3413.0,170.0,3200.0,43.0
 2020-06-24,Germany,Bremen,1658.0,49.0,1500.0,109.0
 2020-06-24,Germany,Hamburg,5175.0,259.0,4900.0,16.0
-2020-06-24,Germany,Hessen,10666.0,505.0,9800.0,361.0
+2020-06-24,Germany,Hessen,10645.0,503.0,9800.0,342.0
 2020-06-24,Germany,Mecklenburg-Vorpommern,796.0,20.0,760.0,16.0
-2020-06-24,Germany,Niedersachsen,13378.0,626.0,12000.0,752.0
-2020-06-24,Germany,Nordrhein-Westfalen,41992.0,1669.0,37400.0,2923.0
-2020-06-24,Germany,Rheinland-Pfalz,6940.0,235.0,6553.0,152.0
+2020-06-24,Germany,Niedersachsen,13331.0,625.0,12000.0,706.0
+2020-06-24,Germany,Nordrhein-Westfalen,41678.0,1669.0,37300.0,2709.0
+2020-06-24,Germany,Rheinland-Pfalz,6932.0,235.0,6543.0,154.0
 2020-06-24,Germany,Saarland,2801.0,171.0,2569.0,61.0
-2020-06-24,Germany,Sachsen,5438.0,222.0,5100.0,116.0
-2020-06-24,Germany,Sachsen-Anhalt,1864.0,58.0,1681.0,125.0
-2020-06-24,Germany,Schleswig-Holstein,3140.0,152.0,2980.0,8.0
-2020-06-24,Germany,Thuringen,3235.0,178.0,3000.0,57.0
-2020-06-24,Germany,Unknown,1181.0,0.0,0.0,1181.0
+2020-06-24,Germany,Sachsen,5436.0,222.0,5100.0,114.0
+2020-06-24,Germany,Sachsen-Anhalt,1860.0,58.0,1668.0,134.0
+2020-06-24,Germany,Schleswig-Holstein,3137.0,152.0,2980.0,5.0
+2020-06-24,Germany,Thuringen,3231.0,178.0,2970.0,83.0
+2020-06-24,Germany,Unknown,1307.0,0.0,0.0,1307.0
 2020-06-24,India,Andaman and Nicobar Islands,56.0,0.0,43.0,13.0
 2020-06-24,India,Andhra Pradesh,10331.0,124.0,4779.0,5428.0
 2020-06-24,India,Arunachal Pradesh,158.0,0.0,38.0,120.0
@@ -29180,7 +29180,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,Japan,Gunma,152.0,19.0,130.0,3.0
 2020-06-24,Japan,Hiroshima,165.0,3.0,162.0,0.0
 2020-06-24,Japan,Hokkaido,1201.0,98.0,1011.0,92.0
-2020-06-24,Japan,Hyogo,704.0,43.0,653.0,8.0
+2020-06-24,Japan,Hyogo,702.0,43.0,653.0,6.0
 2020-06-24,Japan,Ibaraki,170.0,10.0,155.0,5.0
 2020-06-24,Japan,Ishikawa,300.0,27.0,249.0,24.0
 2020-06-24,Japan,Kagawa,28.0,0.0,28.0,0.0
@@ -29208,7 +29208,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,Japan,Shizuoka,81.0,1.0,75.0,5.0
 2020-06-24,Japan,Tochigi,66.0,0.0,65.0,1.0
 2020-06-24,Japan,Tokushima,5.0,1.0,4.0,0.0
-2020-06-24,Japan,Tokyo,5952.0,323.0,5215.0,414.0
+2020-06-24,Japan,Tokyo,5904.0,323.0,5183.0,398.0
 2020-06-24,Japan,Tottori,3.0,0.0,3.0,0.0
 2020-06-24,Japan,Toyama,227.0,22.0,205.0,0.0
 2020-06-24,Japan,Unknown,8.0,0.0,0.0,8.0
@@ -29285,89 +29285,89 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,Peru,Tumbes,2386.0,112.0,0.0,2274.0
 2020-06-24,Peru,Ucayali,7293.0,145.0,0.0,7148.0
 2020-06-24,Peru,Unknown,0.0,0.0,151589.0,-151589.0
-2020-06-24,Russia,Adygea Republic,1682.0,12.0,1119.0,551.0
-2020-06-24,Russia,Altai Krai,3600.0,29.0,2594.0,977.0
-2020-06-24,Russia,Altai Republic,511.0,0.0,215.0,296.0
-2020-06-24,Russia,Amur Oblast,1528.0,9.0,609.0,910.0
-2020-06-24,Russia,Arkhangelsk Oblast,4992.0,37.0,2295.0,2660.0
-2020-06-24,Russia,Astrakhan Oblast,3307.0,29.0,2220.0,1058.0
-2020-06-24,Russia,Bashkortostan Republic,5121.0,18.0,2643.0,2460.0
-2020-06-24,Russia,Belgorod Oblast,4189.0,42.0,3116.0,1031.0
-2020-06-24,Russia,Bryansk Oblast,5870.0,34.0,4272.0,1564.0
-2020-06-24,Russia,Buryatia Republic,2731.0,17.0,1826.0,888.0
-2020-06-24,Russia,Chechen Republic,1654.0,21.0,1176.0,457.0
-2020-06-24,Russia,Chelyabinsk Oblast,6442.0,70.0,3500.0,2872.0
+2020-06-24,Russia,Adygea Republic,1647.0,12.0,1096.0,539.0
+2020-06-24,Russia,Altai Krai,3522.0,29.0,2540.0,953.0
+2020-06-24,Russia,Altai Republic,483.0,0.0,207.0,276.0
+2020-06-24,Russia,Amur Oblast,1490.0,7.0,597.0,886.0
+2020-06-24,Russia,Arkhangelsk Oblast,4875.0,35.0,2178.0,2662.0
+2020-06-24,Russia,Astrakhan Oblast,3275.0,29.0,2203.0,1043.0
+2020-06-24,Russia,Bashkortostan Republic,5068.0,18.0,2574.0,2476.0
+2020-06-24,Russia,Belgorod Oblast,4120.0,42.0,3103.0,975.0
+2020-06-24,Russia,Bryansk Oblast,5801.0,34.0,4216.0,1551.0
+2020-06-24,Russia,Buryatia Republic,2682.0,16.0,1815.0,851.0
+2020-06-24,Russia,Chechen Republic,1645.0,20.0,1175.0,450.0
+2020-06-24,Russia,Chelyabinsk Oblast,6268.0,70.0,3343.0,2855.0
 2020-06-24,Russia,Chukotka Autonomous Okrug,135.0,1.0,122.0,12.0
-2020-06-24,Russia,Chuvashia Republic,4802.0,25.0,2767.0,2010.0
-2020-06-24,Russia,Dagestan Republic,7488.0,364.0,5468.0,1656.0
-2020-06-24,Russia,Ingushetia Republic,2916.0,67.0,2374.0,475.0
-2020-06-24,Russia,Irkutsk Oblast,6128.0,44.0,2117.0,3967.0
-2020-06-24,Russia,Ivanovo Oblast,4330.0,39.0,2643.0,1648.0
-2020-06-24,Russia,Jewish Autonomous Okrug,408.0,5.0,332.0,71.0
-2020-06-24,Russia,Kabardino-Balkarian Republic,4726.0,48.0,2945.0,1733.0
-2020-06-24,Russia,Kaliningrad Oblast,2373.0,37.0,1356.0,980.0
-2020-06-24,Russia,Kalmykia Republic,1392.0,21.0,1014.0,357.0
-2020-06-24,Russia,Kaluga Oblast,5788.0,43.0,3392.0,2353.0
-2020-06-24,Russia,Kamchatka Krai,1969.0,28.0,710.0,1231.0
-2020-06-24,Russia,Karachay-Cherkess Republic,3149.0,12.0,1123.0,2014.0
-2020-06-24,Russia,Karelia Republic,1109.0,2.0,440.0,667.0
-2020-06-24,Russia,Kemerovo Oblast,1454.0,9.0,651.0,794.0
-2020-06-24,Russia,Khabarovsk Krai,3824.0,27.0,2040.0,1757.0
-2020-06-24,Russia,Khakassia Republic,1696.0,15.0,1257.0,424.0
-2020-06-24,Russia,Khanty-Mansi Autonomous Okrug,7542.0,38.0,3687.0,3817.0
-2020-06-24,Russia,Kirov Oblast,3026.0,33.0,2300.0,693.0
-2020-06-24,Russia,Komi Republic,3050.0,29.0,1343.0,1678.0
-2020-06-24,Russia,Kostroma Oblast,1442.0,15.0,815.0,612.0
-2020-06-24,Russia,Krasnodar Krai,5683.0,70.0,4403.0,1210.0
-2020-06-24,Russia,Krasnoyarsk Krai,8182.0,99.0,3308.0,4775.0
-2020-06-24,Russia,Kurgan Oblast,660.0,1.0,345.0,314.0
-2020-06-24,Russia,Kursk Oblast,4747.0,30.0,2742.0,1975.0
-2020-06-24,Russia,Leningrad Oblast,4170.0,27.0,4105.0,38.0
-2020-06-24,Russia,Lipetsk Oblast,3583.0,13.0,2186.0,1384.0
-2020-06-24,Russia,Magadan Oblast,642.0,4.0,326.0,312.0
-2020-06-24,Russia,Mari El Republic,2819.0,21.0,2811.0,-13.0
-2020-06-24,Russia,Mordovia Republic,3192.0,24.0,2029.0,1139.0
-2020-06-24,Russia,Moscow,217791.0,3669.0,142194.0,71928.0
-2020-06-24,Russia,Moscow Oblast,55853.0,832.0,29002.0,26019.0
-2020-06-24,Russia,Murmansk Oblast,4732.0,11.0,3362.0,1359.0
+2020-06-24,Russia,Chuvashia Republic,4740.0,25.0,2717.0,1998.0
+2020-06-24,Russia,Dagestan Republic,7415.0,360.0,5465.0,1590.0
+2020-06-24,Russia,Ingushetia Republic,2889.0,67.0,2353.0,469.0
+2020-06-24,Russia,Irkutsk Oblast,5919.0,42.0,2059.0,3818.0
+2020-06-24,Russia,Ivanovo Oblast,4253.0,37.0,2630.0,1586.0
+2020-06-24,Russia,Jewish Autonomous Okrug,404.0,5.0,332.0,67.0
+2020-06-24,Russia,Kabardino-Balkarian Republic,4656.0,47.0,2847.0,1762.0
+2020-06-24,Russia,Kaliningrad Oblast,2356.0,37.0,1340.0,979.0
+2020-06-24,Russia,Kalmykia Republic,1362.0,21.0,996.0,345.0
+2020-06-24,Russia,Kaluga Oblast,5744.0,43.0,3322.0,2379.0
+2020-06-24,Russia,Kamchatka Krai,1927.0,28.0,623.0,1276.0
+2020-06-24,Russia,Karachay-Cherkess Republic,3067.0,12.0,1062.0,1993.0
+2020-06-24,Russia,Karelia Republic,1074.0,2.0,439.0,633.0
+2020-06-24,Russia,Kemerovo Oblast,1424.0,8.0,622.0,794.0
+2020-06-24,Russia,Khabarovsk Krai,3752.0,26.0,2011.0,1715.0
+2020-06-24,Russia,Khakassia Republic,1661.0,15.0,1255.0,391.0
+2020-06-24,Russia,Khanty-Mansi Autonomous Okrug,7223.0,38.0,3618.0,3567.0
+2020-06-24,Russia,Kirov Oblast,2986.0,33.0,2236.0,717.0
+2020-06-24,Russia,Komi Republic,2986.0,29.0,1305.0,1652.0
+2020-06-24,Russia,Kostroma Oblast,1411.0,15.0,808.0,588.0
+2020-06-24,Russia,Krasnodar Krai,5624.0,69.0,4374.0,1181.0
+2020-06-24,Russia,Krasnoyarsk Krai,8029.0,99.0,3249.0,4681.0
+2020-06-24,Russia,Kurgan Oblast,625.0,0.0,333.0,292.0
+2020-06-24,Russia,Kursk Oblast,4673.0,30.0,2717.0,1926.0
+2020-06-24,Russia,Leningrad Oblast,4119.0,27.0,4050.0,42.0
+2020-06-24,Russia,Lipetsk Oblast,3536.0,13.0,2091.0,1432.0
+2020-06-24,Russia,Magadan Oblast,620.0,4.0,308.0,308.0
+2020-06-24,Russia,Mari El Republic,2783.0,21.0,2758.0,4.0
+2020-06-24,Russia,Mordovia Republic,3143.0,24.0,2007.0,1112.0
+2020-06-24,Russia,Moscow,216906.0,3657.0,141268.0,71981.0
+2020-06-24,Russia,Moscow Oblast,55386.0,822.0,27588.0,26976.0
+2020-06-24,Russia,Murmansk Oblast,4660.0,11.0,3217.0,1432.0
 2020-06-24,Russia,Nenets Autonomous Okrug,95.0,0.0,35.0,60.0
-2020-06-24,Russia,Nizhny Novgorod Oblast,16414.0,212.0,9566.0,6636.0
-2020-06-24,Russia,North Ossetia - Alania Republic,3883.0,66.0,3435.0,382.0
-2020-06-24,Russia,Novgorod Oblast,2653.0,20.0,672.0,1961.0
-2020-06-24,Russia,Novosibirsk Oblast,5458.0,82.0,3058.0,2318.0
-2020-06-24,Russia,Omsk Oblast,3236.0,27.0,1851.0,1358.0
-2020-06-24,Russia,Orel Oblast,4318.0,51.0,2575.0,1692.0
-2020-06-24,Russia,Orenburg Oblast,3439.0,15.0,2597.0,827.0
-2020-06-24,Russia,Penza Oblast,4593.0,37.0,4100.0,456.0
-2020-06-24,Russia,Perm Krai,3416.0,76.0,2533.0,807.0
-2020-06-24,Russia,Primorsky Krai,3895.0,40.0,2364.0,1491.0
-2020-06-24,Russia,Pskov Oblast,2527.0,19.0,797.0,1711.0
-2020-06-24,Russia,Rostov Oblast,9074.0,100.0,4778.0,4196.0
-2020-06-24,Russia,Ryazan Oblast,4984.0,17.0,3294.0,1673.0
-2020-06-24,Russia,Saint Petersburg,23071.0,961.0,15100.0,7010.0
-2020-06-24,Russia,Sakha (Yakutiya) Republic,3963.0,25.0,2757.0,1181.0
-2020-06-24,Russia,Sakhalin Oblast,663.0,0.0,119.0,544.0
-2020-06-24,Russia,Samara Oblast,4557.0,53.0,2429.0,2075.0
-2020-06-24,Russia,Saratov Oblast,5892.0,42.0,2922.0,2928.0
-2020-06-24,Russia,Smolensk Oblast,4380.0,61.0,2051.0,2268.0
-2020-06-24,Russia,Stavropol Krai,4695.0,89.0,2631.0,1975.0
-2020-06-24,Russia,Sverdlovsk Oblast,11684.0,82.0,6496.0,5106.0
-2020-06-24,Russia,Tambov Oblast,4503.0,17.0,2513.0,1973.0
-2020-06-24,Russia,Tatarstan Republic,4350.0,11.0,3661.0,678.0
-2020-06-24,Russia,Tomsk Oblast,1968.0,14.0,862.0,1092.0
-2020-06-24,Russia,Tula Oblast,6302.0,90.0,5100.0,1112.0
-2020-06-24,Russia,Tver Oblast,3364.0,64.0,2123.0,1177.0
-2020-06-24,Russia,Tyumen Oblast,2766.0,16.0,1646.0,1104.0
-2020-06-24,Russia,Tyva Republic,3853.0,3.0,774.0,3076.0
-2020-06-24,Russia,Udmurt Republic,1314.0,15.0,945.0,354.0
-2020-06-24,Russia,Ulyanovsk Oblast,5242.0,35.0,2659.0,2548.0
-2020-06-24,Russia,Vladimir Oblast,4109.0,55.0,2412.0,1642.0
-2020-06-24,Russia,Volgograd Oblast,5825.0,35.0,2691.0,3099.0
-2020-06-24,Russia,Vologda Oblast,1508.0,17.0,1087.0,404.0
-2020-06-24,Russia,Voronezh Oblast,6653.0,33.0,4065.0,2555.0
-2020-06-24,Russia,Yamalo-Nenets Autonomous Okrug,4709.0,34.0,2006.0,2669.0
-2020-06-24,Russia,Yaroslavl Oblast,4571.0,18.0,2903.0,1650.0
-2020-06-24,Russia,Zabaykalsky Krai,2793.0,41.0,1656.0,1096.0
+2020-06-24,Russia,Nizhny Novgorod Oblast,16197.0,207.0,9481.0,6509.0
+2020-06-24,Russia,North Ossetia - Alania Republic,3854.0,66.0,3412.0,376.0
+2020-06-24,Russia,Novgorod Oblast,2591.0,20.0,672.0,1899.0
+2020-06-24,Russia,Novosibirsk Oblast,5356.0,78.0,3034.0,2244.0
+2020-06-24,Russia,Omsk Oblast,3184.0,27.0,1814.0,1343.0
+2020-06-24,Russia,Orel Oblast,4281.0,51.0,2523.0,1707.0
+2020-06-24,Russia,Orenburg Oblast,3377.0,15.0,2581.0,781.0
+2020-06-24,Russia,Penza Oblast,4523.0,36.0,4077.0,410.0
+2020-06-24,Russia,Perm Krai,3355.0,72.0,2448.0,835.0
+2020-06-24,Russia,Primorsky Krai,3811.0,39.0,2267.0,1505.0
+2020-06-24,Russia,Pskov Oblast,2458.0,19.0,785.0,1654.0
+2020-06-24,Russia,Rostov Oblast,8950.0,97.0,4651.0,4202.0
+2020-06-24,Russia,Ryazan Oblast,4943.0,17.0,3281.0,1645.0
+2020-06-24,Russia,Saint Petersburg,22850.0,942.0,14511.0,7397.0
+2020-06-24,Russia,Sakha (Yakutiya) Republic,3891.0,24.0,2689.0,1178.0
+2020-06-24,Russia,Sakhalin Oblast,628.0,0.0,115.0,513.0
+2020-06-24,Russia,Samara Oblast,4502.0,53.0,2405.0,2044.0
+2020-06-24,Russia,Saratov Oblast,5782.0,42.0,2895.0,2845.0
+2020-06-24,Russia,Smolensk Oblast,4338.0,61.0,2024.0,2253.0
+2020-06-24,Russia,Stavropol Krai,4616.0,87.0,2603.0,1926.0
+2020-06-24,Russia,Sverdlovsk Oblast,11492.0,79.0,6250.0,5163.0
+2020-06-24,Russia,Tambov Oblast,4457.0,17.0,2492.0,1948.0
+2020-06-24,Russia,Tatarstan Republic,4310.0,11.0,3656.0,643.0
+2020-06-24,Russia,Tomsk Oblast,1909.0,14.0,849.0,1046.0
+2020-06-24,Russia,Tula Oblast,6220.0,89.0,5019.0,1112.0
+2020-06-24,Russia,Tver Oblast,3311.0,61.0,2114.0,1136.0
+2020-06-24,Russia,Tyumen Oblast,2717.0,16.0,1621.0,1080.0
+2020-06-24,Russia,Tyva Republic,3713.0,3.0,655.0,3055.0
+2020-06-24,Russia,Udmurt Republic,1294.0,15.0,941.0,338.0
+2020-06-24,Russia,Ulyanovsk Oblast,5133.0,35.0,2606.0,2492.0
+2020-06-24,Russia,Vladimir Oblast,4056.0,55.0,2371.0,1630.0
+2020-06-24,Russia,Volgograd Oblast,5724.0,34.0,2612.0,3078.0
+2020-06-24,Russia,Vologda Oblast,1487.0,17.0,1078.0,392.0
+2020-06-24,Russia,Voronezh Oblast,6457.0,33.0,4047.0,2377.0
+2020-06-24,Russia,Yamalo-Nenets Autonomous Okrug,4553.0,33.0,1967.0,2553.0
+2020-06-24,Russia,Yaroslavl Oblast,4526.0,18.0,2864.0,1644.0
+2020-06-24,Russia,Zabaykalsky Krai,2738.0,40.0,1608.0,1090.0
 2020-06-24,Spain,Andalusia,12917.0,1426.0,10671.0,820.0
 2020-06-24,Spain,Aragon,6060.0,911.0,3772.0,1377.0
 2020-06-24,Spain,Asturias,2435.0,333.0,1063.0,1039.0
@@ -29427,6 +29427,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,US,Idaho,4402.0,89.0,0.0,4313.0
 2020-06-24,US,Illinois,138540.0,6770.0,0.0,131770.0
 2020-06-24,US,Indiana,43140.0,2578.0,0.0,40562.0
+2020-06-24,US,Iowa,26469.0,689.0,0.0,25780.0
 2020-06-24,US,Kansas,12930.0,260.0,0.0,12670.0
 2020-06-24,US,Kentucky,14363.0,538.0,0.0,13825.0
 2020-06-24,US,Louisiana,52477.0,3152.0,0.0,49325.0
@@ -29436,7 +29437,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,US,Michigan,68555.0,6114.0,0.0,62441.0
 2020-06-24,US,Minnesota,33763.0,1432.0,0.0,32331.0
 2020-06-24,US,Mississippi,23424.0,1011.0,0.0,22413.0
-2020-06-24,US,Missouri,19131.0,985.0,0.0,18146.0
+2020-06-24,US,Missouri,19123.0,985.0,0.0,18138.0
 2020-06-24,US,Montana,766.0,21.0,0.0,745.0
 2020-06-24,US,Nebraska,18221.0,257.0,0.0,17964.0
 2020-06-24,US,Nevada,13528.0,489.0,0.0,13039.0
@@ -29463,36 +29464,36 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-24,US,Virgin Islands,76.0,6.0,0.0,70.0
 2020-06-24,US,Virginia,59514.0,1661.0,0.0,57853.0
 2020-06-24,US,Washington,29869.0,1293.0,0.0,28576.0
-2020-06-24,US,West Virginia,2629.0,92.0,0.0,2537.0
+2020-06-24,US,West Virginia,2631.0,92.0,0.0,2539.0
 2020-06-24,US,Wisconsin,25763.0,757.0,0.0,25006.0
 2020-06-24,US,Wyoming,1282.0,20.0,0.0,1262.0
-2020-06-24,Ukraine,Cherkasy Oblast,616.0,22.0,431.0,163.0
-2020-06-24,Ukraine,Chernihiv Oblast,506.0,10.0,145.0,351.0
-2020-06-24,Ukraine,Chernivtsi Oblast,4531.0,177.0,1763.0,2591.0
-2020-06-24,Ukraine,Crimea Republic*,631.0,8.0,437.0,186.0
-2020-06-24,Ukraine,Dnipropetrovsk Oblast,1069.0,23.0,893.0,153.0
-2020-06-24,Ukraine,Donetsk Oblast,399.0,8.0,150.0,241.0
-2020-06-24,Ukraine,Ivano-Frankivsk Oblast,2171.0,98.0,1083.0,990.0
-2020-06-24,Ukraine,Kharkiv Oblast,1947.0,71.0,977.0,899.0
+2020-06-24,Ukraine,Cherkasy Oblast,614.0,22.0,426.0,166.0
+2020-06-24,Ukraine,Chernihiv Oblast,494.0,10.0,145.0,339.0
+2020-06-24,Ukraine,Chernivtsi Oblast,4478.0,176.0,1715.0,2587.0
+2020-06-24,Ukraine,Crimea Republic*,623.0,7.0,432.0,184.0
+2020-06-24,Ukraine,Dnipropetrovsk Oblast,1060.0,23.0,852.0,185.0
+2020-06-24,Ukraine,Donetsk Oblast,376.0,8.0,145.0,223.0
+2020-06-24,Ukraine,Ivano-Frankivsk Oblast,2124.0,97.0,1083.0,944.0
+2020-06-24,Ukraine,Kharkiv Oblast,1891.0,71.0,932.0,888.0
 2020-06-24,Ukraine,Kherson Oblast,188.0,3.0,175.0,10.0
-2020-06-24,Ukraine,Khmelnytskyi Oblast,645.0,15.0,515.0,115.0
-2020-06-24,Ukraine,Kiev,4613.0,101.0,1473.0,3039.0
-2020-06-24,Ukraine,Kiev Oblast,2373.0,48.0,1185.0,1140.0
-2020-06-24,Ukraine,Kirovohrad Oblast,636.0,31.0,524.0,81.0
+2020-06-24,Ukraine,Khmelnytskyi Oblast,627.0,15.0,503.0,109.0
+2020-06-24,Ukraine,Kiev,4528.0,101.0,1440.0,2987.0
+2020-06-24,Ukraine,Kiev Oblast,2332.0,47.0,1147.0,1138.0
+2020-06-24,Ukraine,Kirovohrad Oblast,634.0,31.0,523.0,80.0
 2020-06-24,Ukraine,Luhansk Oblast,75.0,0.0,54.0,21.0
-2020-06-24,Ukraine,Lviv Oblast,4627.0,123.0,712.0,3792.0
-2020-06-24,Ukraine,Mykolaiv Oblast,377.0,9.0,273.0,95.0
-2020-06-24,Ukraine,Odessa Oblast,1465.0,21.0,569.0,875.0
-2020-06-24,Ukraine,Poltava Oblast,301.0,13.0,267.0,21.0
-2020-06-24,Ukraine,Rivne Oblast,3248.0,64.0,1623.0,1561.0
-2020-06-24,Ukraine,Sevastopol*,215.0,3.0,170.0,42.0
-2020-06-24,Ukraine,Sumy Oblast,277.0,5.0,195.0,77.0
-2020-06-24,Ukraine,Ternopil Oblast,1815.0,27.0,1102.0,686.0
-2020-06-24,Ukraine,Vinnytsia Oblast,1753.0,28.0,1091.0,634.0
-2020-06-24,Ukraine,Volyn Oblast,2024.0,57.0,605.0,1362.0
-2020-06-24,Ukraine,Zakarpattia Oblast,2454.0,70.0,864.0,1520.0
-2020-06-24,Ukraine,Zaporizhia Oblast,561.0,17.0,401.0,143.0
-2020-06-24,Ukraine,Zhytomyr Oblast,1337.0,26.0,688.0,623.0
+2020-06-24,Ukraine,Lviv Oblast,4423.0,120.0,700.0,3603.0
+2020-06-24,Ukraine,Mykolaiv Oblast,368.0,9.0,271.0,88.0
+2020-06-24,Ukraine,Odessa Oblast,1370.0,21.0,569.0,780.0
+2020-06-24,Ukraine,Poltava Oblast,300.0,13.0,263.0,24.0
+2020-06-24,Ukraine,Rivne Oblast,3164.0,61.0,1582.0,1521.0
+2020-06-24,Ukraine,Sevastopol*,215.0,3.0,168.0,44.0
+2020-06-24,Ukraine,Sumy Oblast,272.0,5.0,186.0,81.0
+2020-06-24,Ukraine,Ternopil Oblast,1786.0,27.0,1094.0,665.0
+2020-06-24,Ukraine,Vinnytsia Oblast,1723.0,28.0,1057.0,638.0
+2020-06-24,Ukraine,Volyn Oblast,1955.0,57.0,605.0,1293.0
+2020-06-24,Ukraine,Zakarpattia Oblast,2369.0,65.0,864.0,1440.0
+2020-06-24,Ukraine,Zaporizhia Oblast,559.0,17.0,397.0,145.0
+2020-06-24,Ukraine,Zhytomyr Oblast,1304.0,24.0,681.0,599.0
 2020-06-24,United Kingdom,Anguilla,3.0,0.0,3.0,0.0
 2020-06-24,United Kingdom,Bermuda,146.0,9.0,132.0,5.0
 2020-06-24,United Kingdom,British Virgin Islands,8.0,1.0,7.0,0.0
