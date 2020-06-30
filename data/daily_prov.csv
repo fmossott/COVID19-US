@@ -32183,7 +32183,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-29,Spain,Galicia,9206.0,619.0,9204.0,-617.0
 2020-06-29,Spain,La Rioja,4076.0,366.0,3107.0,603.0
 2020-06-29,Spain,Madrid,71885.0,8421.0,40736.0,22728.0
-2020-06-29,Spain,Melilla,126.0,2.0,125.0,0.0
+2020-06-29,Spain,Melilla,126.0,2.0,125.0,-1.0
 2020-06-29,Spain,Murcia,1680.0,147.0,2180.0,-647.0
 2020-06-29,Spain,Navarra,5463.0,528.0,3905.0,1030.0
 2020-06-29,Spain,Pais Vasco,13772.0,1556.0,16160.0,-3944.0
