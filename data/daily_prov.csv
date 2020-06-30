@@ -31786,7 +31786,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-29,Brazil,Tocantins,10359.0,195.0,6103.0,4061.0
 2020-06-29,Canada,Alberta,8067.0,154.0,7354.0,559.0
 2020-06-29,Canada,British Columbia,2904.0,174.0,2577.0,153.0
-2020-06-29,Canada,Diamond Princess,0.0,1.0,0.0,0.0
+2020-06-29,Canada,Diamond Princess,0.0,1.0,0.0,-1.0
 2020-06-29,Canada,Grand Princess,13.0,0.0,13.0,0.0
 2020-06-29,Canada,Manitoba,324.0,7.0,300.0,17.0
 2020-06-29,Canada,New Brunswick,165.0,2.0,158.0,5.0
@@ -32211,7 +32211,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-29,Sweden,Vastra Gotaland,15006.0,745.0,0.0,14261.0
 2020-06-29,US,Alabama,37175.0,929.0,0.0,36246.0
 2020-06-29,US,Alaska,901.0,14.0,0.0,887.0
-2020-06-29,US,Arizona,74545.0,1598.0,0.0,72948.0
+2020-06-29,US,Arizona,74545.0,1598.0,0.0,72947.0
 2020-06-29,US,Arkansas,20257.0,265.0,0.0,19992.0
 2020-06-29,US,California,223646.0,5983.0,0.0,217663.0
 2020-06-29,US,Colorado,32494.0,1681.0,0.0,30813.0
@@ -32228,7 +32228,7 @@ Date,Country/Region,Province/State,Confirmed,Deaths,Recovered,Active
 2020-06-29,US,Illinois,142461.0,6902.0,0.0,135559.0
 2020-06-29,US,Indiana,45228.0,2624.0,0.0,42604.0
 2020-06-29,US,Iowa,28845.0,711.0,0.0,28134.0
-2020-06-29,US,Kansas,14209.0,273.0,0.0,13937.0
+2020-06-29,US,Kansas,14209.0,273.0,0.0,13936.0
 2020-06-29,US,Kentucky,15347.0,560.0,0.0,14787.0
 2020-06-29,US,Louisiana,57081.0,3199.0,0.0,53882.0
 2020-06-29,US,Maine,3219.0,105.0,0.0,3114.0
