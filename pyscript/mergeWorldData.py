@@ -81,9 +81,14 @@ prev2 = df[['Date','Country/Region','Confirmed']]
 prev2 = prev2.rename(columns={'Confirmed':'Prev2 Confirmed'})
 prev2['Date'] = prev2['Date']+pd.to_timedelta(2,unit='D')
 
+prevW = df[['Date','Country/Region','Confirmed']]
+prevW = prev2.rename(columns={'Confirmed':'Previous Week Confirmed'})
+prevW['Date'] = prev2['Date']+pd.to_timedelta(7,unit='D')
+
 # %%
 merge=df.merge(prev, on=['Date','Country/Region'], how="left")\
     .merge(prev2, on=['Date','Country/Region'], how="left")\
+    .merge(prevW, on=['Date','Country/Region'], how="left")\
     .merge(regdata, on=['Country/Region'], how='left')
 
 # %%
@@ -92,6 +97,7 @@ merge['Daily Deaths'] = merge['Deaths']-merge['Previous Deaths']
 merge['Daily Recovered'] = merge['Recovered']-merge['Previous Recovered']
 merge['Daily Active'] = merge['Active Cases']-merge['Previous Active']
 merge['Previous Daily Confirmed'] = merge['Previous Confirmed']-merge['Prev2 Confirmed']
+merge['Weekly Confirmed'] = merge['Confirmed']-merge['Previous Week Confirmed']
 
 # %%
 merge.sort_values(by=['Date','Country/Region'])
