@@ -82,8 +82,8 @@ prev2 = prev2.rename(columns={'Confirmed':'Prev2 Confirmed'})
 prev2['Date'] = prev2['Date']+pd.to_timedelta(2,unit='D')
 
 prevW = df[['Date','Country/Region','Confirmed']]
-prevW = prev2.rename(columns={'Confirmed':'Previous Week Confirmed'})
-prevW['Date'] = prev2['Date']+pd.to_timedelta(7,unit='D')
+prevW = prevW.rename(columns={'Confirmed':'Previous Week Confirmed'})
+prevW['Date'] = prevW['Date']+pd.to_timedelta(7,unit='D')
 
 # %%
 merge=df.merge(prev, on=['Date','Country/Region'], how="left")\
