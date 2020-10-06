@@ -13,6 +13,12 @@ function banner {
   echo
 }
 
+pull=true
+
+if [ "$1" = "--nopull" ]; then
+  pull=false
+fi
+
 cd `dirname $0`
 cwd=$PWD 
 
@@ -21,11 +27,14 @@ banner "Pulling source repo"
 cd "$cwd/../COVID-19"
 git pull
 
-#Pull this repo
-banner "Pulling this repos"
 cd "$cwd"
-git checkout master
-git pull
+
+#Pull this repo
+if [ "$pull" = true ]; then
+  banner "Pulling this repos"
+  git checkout master
+  git pull
+fi
 
 # Process data
 banner "Process data"
