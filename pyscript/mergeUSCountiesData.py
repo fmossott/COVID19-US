@@ -86,11 +86,15 @@ merge=df.merge(prev, on=['Date','Country/Region','Province/State','Admin2'], how
     .merge(regdata, on=['Country/Region','Province/State','Admin2'], how='left')
 
 # %%
-merge['Daily Confirmed'] = merge['Confirmed']-merge['Previous Confirmed']
-merge['Daily Deaths'] = merge['Deaths']-merge['Previous Deaths']
-merge['Daily Recovered'] = merge['Recovered']-merge['Previous Recovered']
+def clip(s):
+    s [ s<0 ] = 0
+    return s
+
+merge['Daily Confirmed'] = clip(merge['Confirmed']-merge['Previous Confirmed'])
+merge['Daily Deaths'] = clip(merge['Deaths']-merge['Previous Deaths'])
+merge['Daily Recovered'] = clip(merge['Recovered']-merge['Previous Recovered'])
 merge['Daily Active'] = merge['Active Cases']-merge['Previous Active']
-merge['Previous Daily Confirmed'] = merge['Previous Confirmed']-merge['Prev2 Confirmed']
+merge['Previous Daily Confirmed'] = clip(merge['Previous Confirmed']-merge['Prev2 Confirmed'])
 merge = merge.drop(columns=['Active'])
 
 # %%
