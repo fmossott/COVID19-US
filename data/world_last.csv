@@ -1,5 +1,5 @@
 Date,Country/Region,Confirmed,Deaths,Recovered,Active Cases,Previous Confirmed,Previous Deaths,Previous Recovered,Previous Active,Prev2 Confirmed,Previous Week Confirmed,Population,Daily Confirmed,Daily Deaths,Daily Recovered,Daily Active,Previous Daily Confirmed,Weekly Confirmed
-2020-12-01,Afghanistan,46717,1797,0,44920,46498,1774,0,44724,46215,45280,32225560,219,23,0,196,283,1437
+2020-12-01,Afghanistan,46717,1797,0,44920,46274,1795,0,44479,46116,45174,32225560,443,2,0,441,158,1543
 2020-12-01,Albania,39014,822,0,38192,38182,810,0,37372,37625,34300,2862427,832,12,0,820,557,4714
 2020-12-01,Algeria,84152,2447,0,81705,83199,2431,0,80768,82221,77000,43000000,953,16,0,937,978,7152
 2020-12-01,Andorra,6790,76,0,6714,6745,76,0,6669,6712,6351,77543,45,0,0,45,33,439
