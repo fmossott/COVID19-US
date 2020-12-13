@@ -121,12 +121,12 @@ merge['Daily Tests'] = merge['Tests'] - merge['Prev Tests']
 merge.sort_values(by=['Date','Country/Region','Province/State'])
 
 # %%
-merge.to_csv(home+'data/usstates_ts.csv', index=False)
+merge.to_csv(home+'data/usstates_ts', index=False)
 
 # %%
 lastDF = merge.loc[merge['Date'] == merge['Date'].max()]
 
 
 # %%
-lastDF.to_csv(home+'data/usstates_last.csv', index=False)
+lastDF.to_csv(home+'data/usstates_last', index=False)
 

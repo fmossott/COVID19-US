@@ -106,14 +106,14 @@ minDate = maxDate - pd.to_timedelta(15,unit='D');
 
 # %%
 lastWeeks = merge.loc[merge['Date'] >= minDate]
-lastWeeks.to_csv(home+'data/uscounties_ts.csv', index=False)
+lastWeeks.to_csv(home+'data/uscounties_ts', index=False)
 
 # %%
 lastDF = merge.loc[merge['Date'] == maxDate]
 
 
 # %%
-lastDF.to_csv(home+'data/uscounties_last.csv', index=False)
+lastDF.to_csv(home+'data/uscounties_last', index=False)
 
 # %%
 unfound = lastDF[(lastDF['Population'].isna())]

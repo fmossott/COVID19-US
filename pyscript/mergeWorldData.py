@@ -103,12 +103,12 @@ merge['Weekly Confirmed'] = merge['Confirmed']-merge['Previous Week Confirmed']
 merge.sort_values(by=['Date','Country/Region'])
 
 # %%
-merge.to_csv(home+'data/world_ts.csv', index=False)
+merge.to_csv(home+'data/world_ts', index=False)
 
 # %%
 lastDF = merge.loc[merge['Date'] == merge['Date'].max()]
 
 
 # %%
-lastDF.to_csv(home+'data/world_last.csv', index=False)
+lastDF.to_csv(home+'data/world_last', index=False)
 
