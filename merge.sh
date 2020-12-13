@@ -44,7 +44,7 @@ banner "Process data"
 banner "Checking for changes"
 if [[ `git status --porcelain` ]]; then
   echo Changes to commit
-  mergetime=`date -Iseconds -u` 
+  mergetime=`date -u "+%Y-%m-%dT%H:%M:%S"` 
   banner "Committing to 'Merge $mergetime'"
   git commit -a -m "Merge $mergetime"
 
