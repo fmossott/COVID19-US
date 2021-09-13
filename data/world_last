@@ -1,5 +1,5 @@
 Date,Country/Region,Confirmed,Deaths,Recovered,Active Cases,Previous Confirmed,Previous Deaths,Previous Recovered,Previous Active,Prev2 Confirmed,Previous Week Confirmed,Population,Daily Confirmed,Daily Deaths,Daily Recovered,Daily Active,Previous Daily Confirmed,Weekly Confirmed
-2021-09-12,Afghanistan,153962,7164,0,146798,153962,7164,0,146798,153962,153375,32225560,0,0,0,0,0,587
+2021-09-12,Afghanistan,153990,7167,0,146823,153982,7167,0,146815,153962,153423,32225560,8,0,0,8,20,567
 2021-09-12,Albania,157026,2543,0,154483,156162,2539,0,153623,155293,150997,2862427,864,4,0,860,869,6029
 2021-09-12,Algeria,200068,5578,0,194490,199822,5558,0,194264,199560,198004,43000000,246,20,0,226,262,2064
 2021-09-12,Andorra,15083,130,0,14953,15083,130,0,14953,15083,15055,77543,0,0,0,0,0,28
